@@ -1,0 +1,4 @@
+data/train_data.bin
+weights/*.pt
+data/training_corpus.txt
+data/prepare_data.py
