@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Dark matter",
+    "sub_topic": "The possibility of dark matter being composed of axions",
+    "message_1": "What is the predicted mass range for axion particles, based on current theories and experiments, and how does this compare to the estimated mass of dark matter in the universe?",
+    "message_2": "The axion is a hypothetical elementary particle postulated to solve the strong CP problem in quantum chromodynamics. The predicted mass range for axion particles varies depending on the specific axion model and the assumptions made. However, based on current theories and experiments, the mass range for axion particles is generally expected to be between 10^-6 eV (electron volts) and 10^-3 eV.\n\nIn the context of dark matter, axions are considered as a potential candidate for cold dark matter, which is believed to make up around 85% of the matter in the universe. The estimated mass of dark matter in the universe is around 1.2 x 10^53 eV. If axions are indeed the primary constituent of dark matter, their combined mass would need to account for this value.\n\nIt is important to note that the mass range for axions is still uncertain, and ongoing experiments, such as the Axion Dark Matter Experiment (ADMX) and the International Axion Observatory (IAXO), aim to narrow down this range and potentially detect axions. If detected, axions could provide a significant breakthrough in our understanding of dark matter and its role in the universe."
+}

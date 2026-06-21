@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The Higgs boson and its properties",
+    "message_1": "What is the value of the mass of the Higgs boson in electron-volts (eV) based on the latest measurements from the Large Hadron Collider (LHC) experiments?",
+    "message_2": "The latest measurements from the Large Hadron Collider (LHC) experiments indicate that the mass of the Higgs boson is approximately 125.1 GeV/c² (giga-electron volts) or 125,100 MeV/c² (mega-electron volts)."
+}

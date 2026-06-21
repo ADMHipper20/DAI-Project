@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Schwarzschild metric and non-rotating black holes",
+    "message_1": "What is the relationship between the Schwarzschild radius and the mass of a non-rotating black hole according to the Schwarzschild metric? How does it relate to the event horizon of the black hole?",
+    "message_2": "The Schwarzschild radius (Rs) is the radius of the event horizon of a non-rotating black hole, according to the Schwarzschild metric. It is directly proportional to the mass (M) of the black hole. The relationship between the Schwarzschild radius and the mass of a non-rotating black hole is given by the following formula:\n\nRs = 2GM/c^2\n\nwhere:\n- Rs is the Schwarzschild radius\n- G is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2)\n- M is the mass of the black hole\n- c is the speed of light in a vacuum (approximately 3.0 × 10^8 m/s)\n\nThe event horizon of a black hole is the boundary beyond which nothing, not even light, can escape the gravitational pull of the black hole. For a non-rotating black hole, the event horizon is a sphere with a radius equal to the Schwarzschild radius. Any object or radiation that crosses the event horizon is inevitably pulled towards the singularity at the center of the black hole, and cannot escape."
+}

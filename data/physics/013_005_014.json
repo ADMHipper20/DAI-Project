@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Cosmic microwave background radiation and the early universe",
+    "message_1": "What is the temperature of the Universe when it was 380,000 years old based on the measurements of cosmic microwave background radiation?",
+    "message_2": "The temperature of the Universe when it was 380,000 years old, which is the time of the cosmic microwave background (CMB) radiation, is approximately 3000 Kelvin (K). This is the time when the Universe had cooled down enough for protons and electrons to combine and form neutral hydrogen atoms, allowing photons to travel freely through space. The CMB radiation we observe today is the remnant of this early stage of the Universe, and it has cooled down to about 2.7 K due to the expansion of the Universe."
+}

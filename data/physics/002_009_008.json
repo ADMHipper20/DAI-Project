@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the amount of heat required to change 2 kg of ice at -10°C into water at 20°C, given that the latent heat of fusion of ice is 336 kJ/kg and the specific heat capacity of ice and water are 2.1 kJ/kg K and 4.2 kJ/kg K respectively?",
+    "message_2": "To find the amount of heat required to change 2 kg of ice at -10°C into water at 20°C, we need to consider three steps:\n\n1. Heating the ice from -10°C to 0°C\n2. Melting the ice at 0°C\n3. Heating the water from 0°C to 20°C\n\nStep 1: Heating the ice from -10°C to 0°C\nQ1 = mass × specific heat capacity of ice × temperature change\nQ1 = 2 kg × 2.1 kJ/kg K × (0°C - (-10°C))\nQ1 = 2 kg × 2.1 kJ/kg K × 10 K\nQ1 = 42 kJ\n\nStep 2: Melting the ice at 0°C\nQ2 = mass × latent heat of fusion of ice\nQ2 = 2 kg × 336 kJ/kg\nQ2 = 672 kJ\n\nStep 3: Heating the water from 0°C to 20°C\nQ3 = mass × specific heat capacity of water × temperature change\nQ3 = 2 kg × 4.2 kJ/kg K × (20°C - 0°C)\nQ3 = 2 kg × 4.2 kJ/kg K × 20 K\nQ3 = 168 kJ\n\nNow, we add the heat required for all three steps to find the total heat required:\nTotal heat required = Q1 + Q2 + Q3\nTotal heat required = 42 kJ + 672 kJ + 168 kJ\nTotal heat required = 882 kJ\n\nSo, the amount of heat required to change 2 kg of ice at -10°C into water at 20°C is 882 kJ."
+}

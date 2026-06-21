@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Gibbs free energy change in a reaction",
+    "message_1": "Calculate the Gibbs free energy change at standard conditions for the following reaction:\n2H2(g) + O2(g) → 2H2O(l) \nGiven the standard molar Gibbs free energy of formation values: \nΔH°f[H2(g)] = 0 kJ/mol \nΔH°f[O2(g)] = 0 kJ/mol \nΔH°f[H2O(l)] = -285.83 kJ/mol",
+    "message_2": "To calculate the Gibbs free energy change (ΔG°) at standard conditions for the given reaction, we can use the following equation:\n\nΔG° = Σ ΔG°f(products) - Σ ΔG°f(reactants)\n\nwhere ΔG°f is the standard molar Gibbs free energy of formation for each species.\n\nFor the given reaction, we have:\n\n2H2(g) + O2(g) → 2H2O(l)\n\nThe standard molar Gibbs free energy of formation values are given as:\n\nΔH°f[H2(g)] = 0 kJ/mol\nΔH°f[O2(g)] = 0 kJ/mol\nΔH°f[H2O(l)] = -285.83 kJ/mol\n\nNow, we can plug these values into the equation:\n\nΔG° = [2 × ΔH°f(H2O(l))] - [2 × ΔH°f(H2(g)) + ΔH°f(O2(g))]\n\nΔG° = [2 × (-285.83 kJ/mol)] - [2 × (0 kJ/mol) + (0 kJ/mol)]\n\nΔG° = (-571.66 kJ/mol) - 0\n\nΔG° = -571.66 kJ/mol\n\nSo, the Gibbs free energy change at standard conditions for the given reaction is -571.66 kJ/mol."
+}

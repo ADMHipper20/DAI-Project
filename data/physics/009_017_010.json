@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "An incident light of wavelength 500 nm passed through a single slit with a width of 0.03 mm. Calculate the angle of the first minimum in the diffraction pattern formed on a screen placed at a distance of 1m from the slit.",
+    "message_2": "To calculate the angle of the first minimum in the diffraction pattern, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere:\nθ is the angle of the minimum\nm is the order of the minimum (m = 1 for the first minimum)\nλ is the wavelength of the incident light (500 nm)\na is the width of the slit (0.03 mm)\n\nFirst, we need to convert the units to be consistent:\n\nλ = 500 nm = 500 * 10^(-9) m\na = 0.03 mm = 0.03 * 10^(-3) m\n\nNow, we can plug the values into the formula:\n\nsin(θ) = (1 * 500 * 10^(-9)) / (0.03 * 10^(-3))\n\nsin(θ) = (500 * 10^(-9)) / (30 * 10^(-6))\n\nsin(θ) = 1/60\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(1/60)\n\nθ ≈ 0.958 degrees\n\nSo, the angle of the first minimum in the diffraction pattern is approximately 0.958 degrees."
+}

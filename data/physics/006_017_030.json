@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the electron spin resonance (ESR) effect in atoms",
+    "message_1": "What is the relationship between the magnetic field strength and the electron spin resonance frequency in hydrogen atoms?",
+    "message_2": "The relationship between the magnetic field strength (B) and the electron spin resonance (ESR) frequency (ν) in hydrogen atoms can be described using the Zeeman effect and the following equation:\n\nν = g_e * μ_B * B / h\n\nwhere:\n- ν is the ESR frequency\n- g_e is the electron g-factor (approximately 2.0023 for free electrons)\n- μ_B is the Bohr magneton (9.274 x 10^-24 J/T)\n- B is the magnetic field strength\n- h is the Planck's constant (6.626 x 10^-34 J s)\n\nThis equation shows that the ESR frequency is directly proportional to the magnetic field strength. As the magnetic field strength increases, the ESR frequency also increases, and vice versa."
+}

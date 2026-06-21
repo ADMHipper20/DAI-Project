@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "What is the observed frequency of a light wave emitted by a spacecraft traveling at 0.9c away from Earth, if its emitted frequency is 500 THz?",
+    "message_2": "To solve this problem, we can use the Doppler effect formula for the frequency of light. The Doppler effect occurs when a source of waves is moving relative to an observer, causing a change in the observed frequency of the waves. For light waves, the formula is:\n\nf_obs = f_src * (1 - v/c) / sqrt(1 - v^2/c^2)\n\nwhere f_obs is the observed frequency, f_src is the source frequency, v is the relative velocity of the source (positive if the source is moving away from the observer, negative if it's moving towards the observer), and c is the speed of light.\n\nIn this case, f_src = 500 THz, v = 0.9c, and c is the speed of light (approximately 3.0 x 10^8 m/s).\n\nf_obs = 500 THz * (1 - 0.9) / sqrt(1 - 0.9^2)\nf_obs = 500 THz * 0.1 / sqrt(1 - 0.81)\nf_obs = 50 THz / sqrt(0.19)\nf_obs ≈ 50 THz / 0.43589\nf_obs ≈ 114.6 THz\n\nSo, the observed frequency of the light wave emitted by the spacecraft traveling at 0.9c away from Earth is approximately 114.6 THz."
+}

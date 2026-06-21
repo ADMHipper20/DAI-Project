@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "A sample of a radioactive material has an initial activity of 2000 Bq. Calculate the activity after 5 half-lives have elapsed. Given that the half-life of the material is 15 days, what will be the activity of the sample after 75 days?",
+    "message_2": "To calculate the activity of the radioactive material after a certain number of half-lives, we can use the formula:\n\nFinal activity (A) = Initial activity (A0) * (1/2)^n\n\nwhere n is the number of half-lives elapsed.\n\nIn this case, the initial activity (A0) is 2000 Bq, and we want to find the activity after 5 half-lives.\n\nn = 5\n\nA = 2000 * (1/2)^5\nA = 2000 * (1/32)\nA = 62.5 Bq\n\nSo, the activity of the sample after 5 half-lives (75 days) will be 62.5 Bq."
+}

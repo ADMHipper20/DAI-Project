@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of 50 grams of water, in joules per kelvin, given that its initial temperature is 25°C and its final temperature is 50°C after absorbing 1500 joules of heat?",
+    "message_2": "To find the heat capacity of water, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat absorbed (in joules), m is the mass of water (in grams), c is the specific heat capacity of water (in joules per gram per kelvin), and ΔT is the change in temperature (in kelvin).\n\nWe are given:\n- mass of water (m) = 50 grams\n- initial temperature (T1) = 25°C\n- final temperature (T2) = 50°C\n- heat absorbed (Q) = 1500 joules\n\nFirst, we need to find the change in temperature (ΔT):\n\nΔT = T2 - T1 = 50°C - 25°C = 25 K (since 1°C change is equal to 1 K change)\n\nNow, we can rearrange the formula to find the specific heat capacity (c):\n\nc = Q / (mΔT)\n\nPlugging in the given values:\n\nc = 1500 J / (50 g × 25 K) = 1500 J / 1250 gK = 1.2 J/gK\n\nThe specific heat capacity of water in this case is 1.2 joules per gram per kelvin.\n\nNow, to find the heat capacity (C) of the 50 grams of water, we can use the formula:\n\nC = mc\n\nPlugging in the values:\n\nC = 50 g × 1.2 J/gK = 60 J/K\n\nThe heat capacity of 50 grams of water is 60 joules per kelvin."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "Higgs boson physics",
+    "message_1": "What is the decay rate of a Higgs boson particle produced at the Large Hadron Collider with an energy of 13 TeV?",
+    "message_2": "The Higgs boson is an unstable particle with a very short lifetime. Its decay rate, or width, is related to its lifetime and is determined by the various decay channels it can undergo. The Higgs boson can decay into different types of particles, such as W and Z bosons, quarks, and leptons.\n\nThe decay rate (Γ) of the Higgs boson is approximately 4.07 MeV (million electron volts) according to the Standard Model of particle physics. However, the energy of the Higgs boson produced at the Large Hadron Collider (LHC) with an energy of 13 TeV (tera electron volts) is much higher than the Higgs boson's rest mass energy, which is around 125 GeV (giga electron volts).\n\nAt such high energies, the decay rate of the Higgs boson is not significantly affected, as the decay rate is a property of the particle itself and not dependent on the energy at which it is produced. Therefore, the decay rate of a Higgs boson produced at the LHC with an energy of 13 TeV would still be approximately 4.07 MeV."
+}

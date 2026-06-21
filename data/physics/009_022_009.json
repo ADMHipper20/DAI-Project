@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "What is the angle of incidence for which the reflected light from a transparent medium is completely polarized as per Brewster's law and what is the polarizing angle for glass given that the refractive index of glass is 1.5?",
+    "message_2": "Brewster's law states that the angle of incidence for which the reflected light from a transparent medium is completely polarized is when the angle of incidence (θi) and the angle of refraction (θr) are related such that:\n\ntan(θi) = n\n\nwhere n is the refractive index of the transparent medium.\n\nGiven the refractive index of glass is 1.5, we can find the polarizing angle (also called Brewster's angle) for glass as follows:\n\ntan(θi) = 1.5\n\nTo find the angle of incidence θi, we take the arctangent of both sides:\n\nθi = arctan(1.5)\n\nθi ≈ 56.31°\n\nSo, the angle of incidence for which the reflected light from a glass medium is completely polarized is approximately 56.31°."
+}

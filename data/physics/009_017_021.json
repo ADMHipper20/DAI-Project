@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "What is the width of a single slit that produces a first-order diffraction maximum of 2.0 cm at a distance of 3.0 meters from the slit, if the wavelength of the light used is 500 nm?",
+    "message_2": "To solve this problem, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere:\nθ = angle of the diffraction maximum\nm = order of the diffraction maximum (m = 1 for the first-order maximum)\nλ = wavelength of the light (500 nm = 500 * 10^(-9) m)\na = width of the single slit\n\nFirst, we need to find the angle θ. We can use the tangent function to relate the angle to the distance from the slit (3.0 m) and the position of the first-order maximum (2.0 cm = 0.02 m):\n\ntan(θ) = (0.02 m) / (3.0 m)\nθ = arctan(0.02 / 3.0)\n\nNow, we can plug the angle θ and the other known values into the single-slit diffraction formula and solve for the width of the slit (a):\n\nsin(θ) = (1 * 500 * 10^(-9)) / a\n\nTo isolate a, we can rewrite the equation as:\n\na = (1 * 500 * 10^(-9)) / sin(θ)\n\nNow, we can plug in the angle θ that we found earlier:\n\na = (1 * 500 * 10^(-9)) / sin(arctan(0.02 / 3.0))\n\nFinally, we can calculate the width of the single slit (a):\n\na ≈ 1.67 * 10^(-5) m\n\nSo, the width of the single slit is approximately 1.67 * 10^(-5) meters or 16.7 micrometers."
+}

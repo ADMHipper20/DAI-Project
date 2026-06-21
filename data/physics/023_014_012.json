@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum computing",
+    "sub_topic": "Quantum computing with nuclear magnetic resonance",
+    "message_1": "What is the probability that a quantum bit initialized in the state |0⟩ will be measured in the state |1⟩ after applying a π/2 pulse in a nuclear magnetic resonance quantum computing system?",
+    "message_2": "In a nuclear magnetic resonance (NMR) quantum computing system, a π/2 pulse is used to rotate the state of a quantum bit (qubit) by 90 degrees around the Bloch sphere. When a qubit is initialized in the state |0⟩, applying a π/2 pulse will result in a superposition state that is a linear combination of the |0⟩ and |1⟩ states.\n\nThe state after applying the π/2 pulse can be represented as:\n\n|ψ⟩ = cos(π/4)|0⟩ + sin(π/4)|1⟩\n\n|ψ⟩ = (√2/2)|0⟩ + (√2/2)|1⟩\n\nNow, we want to find the probability of measuring the qubit in the state |1⟩. To do this, we take the square of the amplitude of the |1⟩ component in the superposition state:\n\nP(|1⟩) = |⟨1|ψ⟩|^2\n\nP(|1⟩) = |(√2/2)|^2\n\nP(|1⟩) = 1/2\n\nSo, the probability of measuring the qubit in the state |1⟩ after applying a π/2 pulse in an NMR quantum computing system is 1/2 or 50%."
+}

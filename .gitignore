@@ -1,4 +1,17 @@
+# Data folder
 data/train_data.bin
-weights/*.pt
+data/formatted_training.txt
+data/pippa_deduped.jsonl
 data/training_corpus.txt
-data/prepare_data.py
+data/json/*
+
+# Tokenizer
+tokenizer/*
+
+# Weights
+weights/*.pth
+weights/*.pt
+
+tutorial/*
+Agent*.md
+train_turboquant.py

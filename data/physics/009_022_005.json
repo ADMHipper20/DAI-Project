@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "What is the angle of incidence if unpolarized light is incident on a glass-air interface, where the reflected light is completely polarized with an angle of tilt of 53.1 degrees? The refractive index of glass is 1.52. Solve the problem using Brewster's Law.",
+    "message_2": "Brewster's Law states that the angle of incidence (θi) at which the reflected light is completely polarized is related to the refractive indices of the two media (n1 and n2) and the angle of tilt (θt) by the following equation:\n\ntan(θi) = n2 / n1\n\nIn this case, the angle of tilt (θt) is given as 53.1 degrees, and the refractive indices of the two media are n1 = 1 (air) and n2 = 1.52 (glass). We can use the angle of tilt to find the angle of incidence using the following relationship:\n\nθi + θt = 90°\n\nθi = 90° - θt\n\nθi = 90° - 53.1°\n\nθi = 36.9°\n\nNow, we can use Brewster's Law to verify that this angle of incidence results in completely polarized reflected light:\n\ntan(36.9°) = 1.52 / 1\n\ntan(36.9°) ≈ 1.52\n\nSince the equation holds true, the angle of incidence at which the reflected light is completely polarized is 36.9 degrees."
+}

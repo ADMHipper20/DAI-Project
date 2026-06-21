@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the latent heat of fusion of a given substance if 250g of it at its melting point absorbs 5250 J of heat to completely melt?",
+    "message_2": "To find the latent heat of fusion (L) of a substance, we can use the formula:\n\nQ = mL\n\nwhere Q is the heat absorbed (in joules), m is the mass of the substance (in grams), and L is the latent heat of fusion (in J/g).\n\nIn this case, we are given the mass (m = 250g) and the heat absorbed (Q = 5250 J). We need to find L. Rearranging the formula, we get:\n\nL = Q / m\n\nSubstituting the given values:\n\nL = 5250 J / 250 g\n\nL = 21 J/g\n\nSo, the latent heat of fusion of the given substance is 21 J/g."
+}

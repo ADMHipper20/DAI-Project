@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of vapor pressure of a substance",
+    "message_1": "What is the vapor pressure of a sample of water when it is heated to a temperature of 100°C, assuming atmospheric pressure is 1 atm?",
+    "message_2": "At 100°C, water boils and turns into vapor. The vapor pressure of water at this temperature is equal to the atmospheric pressure, which is given as 1 atm. Therefore, the vapor pressure of the water sample at 100°C is 1 atm."
+}

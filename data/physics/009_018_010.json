@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Double Slit Interference",
+    "message_1": "A student is conducting a double slit interference experiment with light of wavelength 500 nm. The distance between the slits is 0.02 mm and the distance between the slits and the screen is 1 m. The student observes an interference pattern on the screen with bright fringes separated by a distance of 2.5 mm. What is the distance between the two slits?",
+    "message_2": "In a double-slit interference experiment, the distance between the bright fringes (y) on the screen can be calculated using the formula:\n\ny = (m * λ * L) / d\n\nwhere:\nm = order of the fringe (1 for the first bright fringe, 2 for the second, and so on)\nλ = wavelength of the light (500 nm in this case)\nL = distance between the slits and the screen (1 m in this case)\nd = distance between the two slits\n\nWe are given that the distance between the bright fringes (y) is 2.5 mm, and we want to find the distance between the two slits (d). We can rearrange the formula to solve for d:\n\nd = (m * λ * L) / y\n\nSince we are looking for the distance between the slits for the first bright fringe, we can use m = 1:\n\nd = (1 * 500 * 10^-9 * 1) / (2.5 * 10^-3)\n\nd = (500 * 10^-9) / (2.5 * 10^-3)\n\nd = 2 * 10^-4 m\n\nd = 0.0002 m\n\nConverting this to millimeters, we get:\n\nd = 0.2 mm\n\nSo, the distance between the two slits is 0.2 mm."
+}

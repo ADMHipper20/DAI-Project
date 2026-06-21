@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spacecraft is emitting electromagnetic waves with a frequency of 10 MHz. It is moving away from Earth at a speed of 0.6c. Another spacecraft with the same frequency is stationary on Earth. What is the frequency observed by the stationary spacecraft on Earth? (Assuming the speed of light to be 3 x 10^8 m/s)",
+    "message_2": "To solve this problem, we can use the Doppler effect formula for electromagnetic waves:\n\nf_observed = f_source * (c + v_relative) / (c - v_relative)\n\nwhere f_observed is the observed frequency, f_source is the source frequency, c is the speed of light, and v_relative is the relative velocity between the source and the observer.\n\nIn this case, f_source = 10 MHz, v_relative = 0.6c, and c = 3 x 10^8 m/s.\n\nf_observed = (10 MHz) * (3 x 10^8 m/s + 0.6 * 3 x 10^8 m/s) / (3 x 10^8 m/s - 0.6 * 3 x 10^8 m/s)\n\nf_observed = (10 MHz) * (1 + 0.6) / (1 - 0.6)\n\nf_observed = (10 MHz) * 1.6 / 0.4\n\nf_observed = 40 MHz\n\nSo, the frequency observed by the stationary spacecraft on Earth is 40 MHz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "A monochromatic light source of wavelength 600 nm passes through a single slit with a width of 0.1 mm. Find the angle of the first minimum on a screen located 2 m away from the slit.",
+    "message_2": "To find the angle of the first minimum, we can use the single-slit diffraction formula:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angle of the minimum, m is the order of the minimum (m = 1 for the first minimum), λ is the wavelength of the light, and a is the width of the slit.\n\nGiven the wavelength λ = 600 nm = 600 * 10^(-9) m and the slit width a = 0.1 mm = 0.1 * 10^(-3) m, we can find the angle of the first minimum:\n\nsin(θ) = (1 * 600 * 10^(-9)) / (0.1 * 10^(-3))\nsin(θ) = 6 * 10^(-6)\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(6 * 10^(-6))\n\nθ ≈ 6 * 10^(-6) radians (since the angle is very small, sin(θ) ≈ θ)\n\nNow, we can convert the angle from radians to degrees:\n\nθ ≈ (6 * 10^(-6) * 180) / π\nθ ≈ 3.44 * 10^(-4) degrees\n\nSo, the angle of the first minimum on the screen is approximately 3.44 * 10^(-4) degrees."
+}

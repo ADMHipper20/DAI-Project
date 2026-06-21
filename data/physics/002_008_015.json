@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of aluminum if it absorbs 250 J of energy and increases in temperature from 20°C to 50°C, and the mass of aluminum is 0.5 kg?",
+    "message_2": "To find the specific heat capacity of aluminum, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat absorbed (250 J), m is the mass of aluminum (0.5 kg), c is the specific heat capacity, and ΔT is the change in temperature (50°C - 20°C = 30°C).\n\nRearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nPlugging in the values, we have:\n\nc = 250 J / (0.5 kg × 30°C)\n\nc = 250 J / 15 kg°C\n\nc = 16.67 J/(kg°C)\n\nThe specific heat capacity of aluminum is approximately 16.67 J/(kg°C)."
+}

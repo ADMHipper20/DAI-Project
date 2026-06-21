@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying motor",
+    "message_1": "A motor has a length of 35 cm and is carrying a current of 2.5 A. Calculate the magnetic field at a distance of 10 cm from the center of the motor.",
+    "message_2": "To calculate the magnetic field at a distance of 10 cm from the center of the motor, we can use the Biot-Savart Law. The Biot-Savart Law states that the magnetic field (B) due to a current-carrying wire is directly proportional to the current (I) and inversely proportional to the distance (r) from the wire.\n\nThe formula for the magnetic field due to a straight current-carrying wire is:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere:\nB is the magnetic field,\nμ₀ is the permeability of free space (4π × 10^(-7) Tm/A),\nI is the current (2.5 A), and\nr is the distance from the center of the motor (10 cm = 0.1 m).\n\nPlugging the values into the formula, we get:\n\nB = (4π × 10^(-7) Tm/A * 2.5 A) / (2 * π * 0.1 m)\n\nB = (10^(-7) * 10 Tm) / 0.1 m\n\nB = 10^(-6) * 100 T\n\nB = 10^(-4) T\n\nSo, the magnetic field at a distance of 10 cm from the center of the motor is 10^(-4) T or 0.0001 T (Tesla)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of copper metal if a 50 gram of copper absorbed 500 Joules of heat energy and its temperature increased by 10 degrees Celsius?",
+    "message_2": "The specific heat capacity (c) of a substance can be calculated using the formula:\n\nq = mcΔT\n\nwhere q is the heat energy absorbed (in Joules), m is the mass of the substance (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following values:\nq = 500 J\nm = 50 g\nΔT = 10 °C\n\nWe need to find the specific heat capacity (c) of copper. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 500 J / (50 g × 10 °C)\nc = 500 J / 500 g°C\nc = 1 J/g°C\n\nThe specific heat capacity of copper metal is 1 J/g°C."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "What is the minimum voltage required to emit electrons from a mercury atom's ground state to its first excited state in the Franck-Hertz experiment, given the energy difference between the two states is 4.9 eV?",
+    "message_2": "In the Franck-Hertz experiment, the minimum voltage required to emit electrons from a mercury atom's ground state to its first excited state is equal to the energy difference between the two states, which is given as 4.9 eV. Since 1 eV is equal to 1.6 x 10^(-19) Joules, we can convert the energy difference to Joules:\n\n4.9 eV * (1.6 x 10^(-19) J/eV) = 7.84 x 10^(-19) J\n\nNow, we can use the formula for voltage, which is:\n\nVoltage (V) = Energy (J) / Charge (C)\n\nThe charge of an electron is 1.6 x 10^(-19) C. Plugging in the values, we get:\n\nV = (7.84 x 10^(-19) J) / (1.6 x 10^(-19) C)\n\nV ≈ 4.9 V\n\nSo, the minimum voltage required to emit electrons from a mercury atom's ground state to its first excited state in the Franck-Hertz experiment is approximately 4.9 volts."
+}

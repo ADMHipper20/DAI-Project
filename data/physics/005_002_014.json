@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Length contraction in a moving frame of reference",
+    "message_1": "An observer on Earth measures the length of a spaceship traveling at 0.8c relative to Earth. The spaceship is 80 meters long when at rest in the observer's frame of reference. What is the length of the spaceship according to a passenger on the spaceship? (Assume the spaceship is oriented perpendicular to the direction of its motion.)",
+    "message_2": "Since the spaceship is oriented perpendicular to the direction of its motion, there will be no length contraction experienced by the passenger on the spaceship. Length contraction occurs only in the direction of motion. Therefore, the length of the spaceship according to a passenger on the spaceship will be the same as its length at rest in the observer's frame of reference, which is 80 meters."
+}

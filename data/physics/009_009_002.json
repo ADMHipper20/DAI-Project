@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Image Formation",
+    "message_1": "A lens with a focal length of +10 cm is placed 20 cm in front of an object. At what distance from the lens will the image of the object be formed and what will be the magnification of the image?",
+    "message_2": "To find the distance of the image from the lens, we can use the lens formula:\n\n1/f = 1/u + 1/v\n\nwhere f is the focal length, u is the object distance, and v is the image distance.\n\nGiven, f = +10 cm and u = -20 cm (object distance is negative as per the sign convention). Now, we can plug these values into the lens formula:\n\n1/10 = 1/(-20) + 1/v\n\nMultiplying all terms by 20v to eliminate the fractions:\n\n2v = -v + 20v\n\nNow, solving for v:\n\nv = 20 cm\n\nSo, the image will be formed at a distance of 20 cm from the lens.\n\nNow, to find the magnification (m) of the image, we can use the formula:\n\nm = -v/u\n\nPlugging in the values we found:\n\nm = -20/(-20)\n\nm = 1\n\nThe magnification of the image is 1, which means the image is the same size as the object."
+}

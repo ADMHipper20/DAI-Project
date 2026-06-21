@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "What angle of incidence of light on a glass surface is required to achieve maximum polarization according to Brewster's law, if the refractive index of the glass is 1.52?",
+    "message_2": "Brewster's law states that the angle of incidence at which maximum polarization occurs is when the angle of incidence (θi) and the angle of refraction (θr) are related such that:\n\ntan(θi) = n\n\nwhere n is the refractive index of the glass.\n\nIn this case, n = 1.52. To find the angle of incidence, we can use the inverse tangent function:\n\nθi = arctan(n)\nθi = arctan(1.52)\n\nθi ≈ 56.31 degrees\n\nSo, the angle of incidence required to achieve maximum polarization is approximately 56.31 degrees."
+}

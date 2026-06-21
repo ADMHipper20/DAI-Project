@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "A spaceship moves away from the Earth with a velocity of 0.6c. It emits a signal at a frequency of 10 MHz. Calculate the frequency observed by an observer on Earth if the speed of sound is negligible.",
+    "message_2": "To calculate the frequency observed by an observer on Earth, we need to use the Doppler effect formula for electromagnetic waves, which takes into account the relativistic effects due to the high speed of the spaceship.\n\nThe formula for the Doppler effect in the case of electromagnetic waves is:\n\nf_observed = f_emitted * sqrt((1 - v/c) / (1 + v/c))\n\nwhere f_observed is the frequency observed on Earth, f_emitted is the frequency emitted by the spaceship (10 MHz), v is the velocity of the spaceship (0.6c), and c is the speed of light.\n\nPlugging in the values:\n\nf_observed = 10 MHz * sqrt((1 - 0.6c/c) / (1 + 0.6c/c))\n\nf_observed = 10 MHz * sqrt((1 - 0.6) / (1 + 0.6))\n\nf_observed = 10 MHz * sqrt(0.4 / 1.6)\n\nf_observed = 10 MHz * sqrt(0.25)\n\nf_observed = 10 MHz * 0.5\n\nf_observed = 5 MHz\n\nSo, the frequency observed by an observer on Earth is 5 MHz."
+}

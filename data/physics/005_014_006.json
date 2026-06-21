@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle decay",
+    "message_1": "A particle with rest mass 12 MeV/c² travels at a velocity of 0.8c relative to an observer. If the particle decays into two particles of equal mass, what is the maximum possible energy of each daughter particle according to the observer?",
+    "message_2": "To solve this problem, we will first find the total energy of the parent particle, and then we will divide this energy by 2 to find the maximum possible energy of each daughter particle.\n\n1. Calculate the relativistic mass of the parent particle:\n\nThe relativistic mass (m) can be calculated using the equation:\n\nm = m0 / sqrt(1 - v²/c²)\n\nwhere m0 is the rest mass, v is the velocity, and c is the speed of light.\n\nm = (12 MeV/c²) / sqrt(1 - (0.8c)²/c²)\nm = (12 MeV/c²) / sqrt(1 - 0.64)\nm = (12 MeV/c²) / sqrt(0.36)\nm = (12 MeV/c²) / 0.6\nm = 20 MeV/c²\n\n2. Calculate the total energy of the parent particle:\n\nThe total energy (E) can be calculated using the equation:\n\nE = m * c²\n\nE = (20 MeV/c²) * c²\nE = 20 MeV\n\n3. Calculate the maximum possible energy of each daughter particle:\n\nSince the parent particle decays into two particles of equal mass, the maximum possible energy of each daughter particle is half of the total energy of the parent particle.\n\nE_daughter = E / 2\n\nE_daughter = 20 MeV / 2\nE_daughter = 10 MeV\n\nSo, the maximum possible energy of each daughter particle according to the observer is 10 MeV."
+}

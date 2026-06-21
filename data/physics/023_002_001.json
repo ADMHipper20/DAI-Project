@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Quantum computing",
+    "sub_topic": "Quantum algorithms for optimization problems",
+    "message_1": "What is the minimum number of qubits required to solve the Maximum Independent Set (MIS) problem for a graph with 10 vertices using the Quantum Approximate Optimization Algorithm (QAOA)?",
+    "message_2": "To solve the Maximum Independent Set (MIS) problem for a graph with 10 vertices using the Quantum Approximate Optimization Algorithm (QAOA), you would need a minimum of 10 qubits. \n\nIn general, for a graph with N vertices, you would need N qubits to represent each vertex in the quantum system. Each qubit can be in a superposition of states representing whether the corresponding vertex is part of the independent set (1) or not (0). The QAOA algorithm then searches for the optimal combination of qubit states that represents the maximum independent set of the graph."
+}

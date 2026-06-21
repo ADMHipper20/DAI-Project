@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "A physics student is observing a polarized light incident on a glass surface. The refracted light is completely polarized when the angle of incidence is 56 degrees. Find the refractive index of the glass. (Assuming the light is incident from air)",
+    "message_2": "To solve this problem, we will use Brewster's Law, which states that the angle of incidence (θi) and the angle of refraction (θr) are related by the refractive indices of the two media (n1 and n2) and the polarization condition:\n\ntan(θi) = n2 / n1\n\nIn this case, the light is incident from air, so n1 = 1 (refractive index of air). The angle of incidence θi is given as 56 degrees, and we need to find the refractive index of the glass, n2.\n\ntan(56°) = n2 / 1\n\nn2 = tan(56°)\n\nUsing a calculator, we find:\n\nn2 ≈ 1.482\n\nSo, the refractive index of the glass is approximately 1.482."
+}

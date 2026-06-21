@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarization of Light",
+    "message_1": "What is the maximum angle of incidence for a light ray traveling from air (n = 1.00) to a material with an index of refraction of 1.50 so that the reflected light becomes 100% polarized in the plane of incidence?",
+    "message_2": "To find the maximum angle of incidence for a light ray traveling from air (n1 = 1.00) to a material with an index of refraction of 1.50 (n2 = 1.50) so that the reflected light becomes 100% polarized in the plane of incidence, we can use Brewster's angle formula. Brewster's angle is the angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection.\n\nBrewster's angle (θ_B) can be calculated using the formula:\n\nθ_B = arctan(n2/n1)\n\nwhere n1 and n2 are the indices of refraction of the two media (air and the material).\n\nPlugging in the values:\n\nθ_B = arctan(1.50/1.00)\nθ_B = arctan(1.50)\n\nθ_B ≈ 56.31 degrees\n\nSo, the maximum angle of incidence for a light ray traveling from air to a material with an index of refraction of 1.50 so that the reflected light becomes 100% polarized in the plane of incidence is approximately 56.31 degrees."
+}

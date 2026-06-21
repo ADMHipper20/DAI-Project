@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Reflection and Refraction of Light",
+    "message_1": "What is the angle of refraction of a light ray that enters a glass prism at an angle of incidence of 40 degrees with a refractive index of 1.5? Given that the prism has an apex angle of 60 degrees.",
+    "message_2": "To find the angle of refraction, we can use Snell's Law:\n\nn1 * sin(i1) = n2 * sin(i2)\n\nwhere n1 and n2 are the refractive indices of the two media (air and glass), i1 is the angle of incidence, and i2 is the angle of refraction.\n\nIn this case, n1 = 1 (refractive index of air), n2 = 1.5 (refractive index of glass), and i1 = 40 degrees.\n\n1 * sin(40) = 1.5 * sin(i2)\n\nsin(i2) = sin(40) / 1.5\n\ni2 = arcsin(sin(40) / 1.5)\n\ni2 ≈ 24.6 degrees\n\nThe angle of refraction when the light ray enters the glass prism is approximately 24.6 degrees."
+}

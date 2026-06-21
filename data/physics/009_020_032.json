@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction Gratings",
+    "message_1": "A diffraction grating has 2500 lines per centimeter. What is the angular separation between the first-order maxima of a light whose wavelength is 600 nm when it passes through the diffraction grating?",
+    "message_2": "To find the angular separation between the first-order maxima of the light, we can use the diffraction grating equation:\n\nn * λ = d * sin(θ)\n\nwhere n is the order of the maxima (in this case, n = 1 for the first-order maxima), λ is the wavelength of the light, d is the distance between the lines on the diffraction grating, and θ is the angle of the maxima.\n\nFirst, we need to find the distance between the lines on the diffraction grating (d). Since there are 2500 lines per centimeter, we can find the distance between the lines as follows:\n\nd = 1 cm / 2500 lines = 0.0004 cm = 4 * 10^(-4) cm\n\nNow, we need to convert the distance (d) to meters:\n\nd = 4 * 10^(-4) cm * (1 m / 100 cm) = 4 * 10^(-6) m\n\nNext, we need to convert the wavelength (λ) from nanometers to meters:\n\nλ = 600 nm * (1 m / 10^9 nm) = 6 * 10^(-7) m\n\nNow, we can use the diffraction grating equation to find the angle (θ):\n\n1 * (6 * 10^(-7) m) = (4 * 10^(-6) m) * sin(θ)\n\nSolving for θ:\n\nsin(θ) = (6 * 10^(-7) m) / (4 * 10^(-6) m) = 0.15\n\nθ = arcsin(0.15)\n\nθ ≈ 8.59°\n\nSo, the angular separation between the first-order maxima of the light is approximately 8.59°."
+}

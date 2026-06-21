@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "Top quark physics",
+    "message_1": "\"What is the probability of a top quark decaying into a bottom quark and a W boson in high-energy collisions?\"",
+    "message_2": "The probability of a top quark decaying into a bottom quark and a W boson in high-energy collisions is nearly 100%. This is because the top quark is highly unstable and has a very short lifetime, around 5 x 10^-25 seconds. The dominant decay mode for the top quark is through the weak force, which involves the emission of a W boson and the transformation of the top quark into a bottom quark. This process is known as the \"t -> Wb\" decay, and it occurs with a branching ratio close to 100%, making it the most likely decay mode for the top quark."
+}

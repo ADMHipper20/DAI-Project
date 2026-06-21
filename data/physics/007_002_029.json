@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Radioactive decay and half-life calculations",
+    "message_1": "A sample of cesium-137 was found to have an initial activity of 1.2 x 10^5 Bq. Calculate the activity of the sample after 10 years, given that the half-life of cesium-137 is 30.17 years. Round your answer to two significant figures.",
+    "message_2": "To calculate the activity of the sample after 10 years, we can use the radioactive decay formula:\n\nA = A0 * (1/2)^(t/T)\n\nwhere A is the final activity, A0 is the initial activity, t is the time elapsed (10 years), and T is the half-life of the substance (30.17 years for cesium-137).\n\nA = (1.2 x 10^5 Bq) * (1/2)^(10/30.17)\n\nA ≈ (1.2 x 10^5 Bq) * (1/2)^0.3316\n\nA ≈ (1.2 x 10^5 Bq) * 0.7935\n\nA ≈ 9.522 x 10^4 Bq\n\nRounding to two significant figures, the activity of the sample after 10 years is approximately 9.5 x 10^4 Bq."
+}

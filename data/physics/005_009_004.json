@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "Suppose a car, emitting a sound of frequency 500 Hz, is moving towards you at a speed of 0.6c (where c is the speed of sound). If the speed of sound is 343 m/s, what frequency do you hear as the car approaches you?",
+    "message_2": "To solve this problem, we will use the Doppler effect formula for sound. The Doppler effect is the change in frequency (and wavelength) of a wave in relation to an observer who is moving relative to the source of the wave. The formula for the Doppler effect when the source is moving towards the observer is:\n\nf' = f * (c + v₀) / (c - vₛ)\n\nwhere:\nf' is the observed frequency,\nf is the emitted frequency,\nc is the speed of sound,\nv₀ is the speed of the observer (which is 0 in this case, as the observer is stationary),\nvₛ is the speed of the source (the car).\n\nGiven:\nf = 500 Hz\nvₛ = 0.6c\nc = 343 m/s\n\nFirst, we need to find the speed of the car (vₛ) in m/s:\n\nvₛ = 0.6 * c = 0.6 * 343 m/s ≈ 205.8 m/s\n\nNow, we can plug the values into the Doppler effect formula:\n\nf' = f * (c + v₀) / (c - vₛ)\nf' = 500 Hz * (343 m/s + 0) / (343 m/s - 205.8 m/s)\nf' = 500 Hz * (343 m/s) / (137.2 m/s)\nf' ≈ 500 Hz * 2.5\n\nf' ≈ 1250 Hz\n\nSo, the frequency you hear as the car approaches you is approximately 1250 Hz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic velocity addition",
+    "message_1": "A spaceship travels at a speed of 0.9c (where c is the speed of light) relative to Earth. Another spaceship travels at a speed of 0.8c relative to the first spaceship. What is the speed of the second spaceship relative to Earth according to the theory of relativistic velocity addition?",
+    "message_2": "To find the relative velocity of the second spaceship with respect to Earth, we need to use the relativistic velocity addition formula:\n\nv = (v1 + v2) / (1 + (v1 * v2) / c^2)\n\nwhere v1 is the velocity of the first spaceship relative to Earth (0.9c), v2 is the velocity of the second spaceship relative to the first spaceship (0.8c), and c is the speed of light.\n\nv = (0.9c + 0.8c) / (1 + (0.9c * 0.8c) / c^2)\n\nv = (1.7c) / (1 + 0.72c^2 / c^2)\n\nv = (1.7c) / (1 + 0.72)\n\nv = (1.7c) / 1.72\n\nv = 0.98837c\n\nSo, the speed of the second spaceship relative to Earth is approximately 0.98837c."
+}

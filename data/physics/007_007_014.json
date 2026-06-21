@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "A physics student is required to calculate the resonant frequency of a proton placed in a magnetic field of 1.5 T using NMR spectroscopy, if the gyromagnetic ratio of the proton is given as 4.257 x 10^7 rad T^-1 s^-1.",
+    "message_2": "The resonant frequency of a proton in a magnetic field can be calculated using the Larmor equation:\n\nf = γ * B / (2 * π)\n\nwhere f is the resonant frequency, γ is the gyromagnetic ratio of the proton, and B is the magnetic field strength.\n\nGiven the gyromagnetic ratio (γ) of the proton as 4.257 x 10^7 rad T^-1 s^-1 and the magnetic field strength (B) as 1.5 T, we can plug these values into the Larmor equation to find the resonant frequency:\n\nf = (4.257 x 10^7 rad T^-1 s^-1) * (1.5 T) / (2 * π)\n\nf ≈ (4.257 x 10^7) * (1.5) / (6.2832)\n\nf ≈ 6.3855 x 10^7 Hz\n\nThe resonant frequency of the proton in the magnetic field of 1.5 T is approximately 63.855 MHz."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the latent heat of fusion of a sample of ice if it requires 6000 J of energy to melt 1 kg of ice at 0°C?",
+    "message_2": "The latent heat of fusion (L_f) is the amount of energy required to change 1 kg of a substance from the solid phase to the liquid phase at its melting point, without changing its temperature. In this case, we are given the energy required (6000 J) to melt 1 kg of ice at 0°C.\n\nTo find the latent heat of fusion, we can use the formula:\n\nL_f = Q / m\n\nwhere L_f is the latent heat of fusion, Q is the energy required to melt the ice (6000 J), and m is the mass of the ice (1 kg).\n\nL_f = 6000 J / 1 kg\n\nL_f = 6000 J/kg\n\nSo, the latent heat of fusion of the sample of ice is 6000 J/kg."
+}

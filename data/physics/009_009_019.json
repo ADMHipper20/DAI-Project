@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Image Formation",
+    "message_1": "A student is standing 2 meters away from a plane mirror. They are 1.5 meters tall and want to see their entire image in the mirror. What is the minimum height the mirror should be?",
+    "message_2": "To see their entire image in the mirror, the mirror should be at least half the height of the student. This is because the angle of incidence equals the angle of reflection, and the light rays from the top and bottom of the student will reflect off the mirror at the same angle they hit it.\n\nSo, the minimum height of the mirror should be:\n\n1.5 meters (student's height) / 2 = 0.75 meters\n\nThe mirror should be at least 0.75 meters tall for the student to see their entire image."
+}

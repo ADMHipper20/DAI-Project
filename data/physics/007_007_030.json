@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "message_1": "What is the effect of changing the magnetic field strength in a NMR spectroscopy experiment on the resonance frequency of a nucleus with a specific magnetic moment?",
+    "message_2": "In Nuclear Magnetic Resonance (NMR) spectroscopy, the resonance frequency of a nucleus with a specific magnetic moment is directly proportional to the strength of the applied magnetic field. This relationship is described by the Larmor equation:\n\nω = γ * B\n\nwhere ω is the resonance frequency (also called Larmor frequency), γ is the gyromagnetic ratio (a constant specific to the nucleus), and B is the magnetic field strength.\n\nWhen the magnetic field strength (B) is increased, the resonance frequency (ω) also increases, and vice versa. This means that the nucleus will resonate at a higher frequency when subjected to a stronger magnetic field. This relationship is crucial in NMR spectroscopy, as it allows for the differentiation and identification of various nuclei in a sample based on their unique resonance frequencies under a given magnetic field strength."
+}

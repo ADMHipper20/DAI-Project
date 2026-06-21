@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the latent heat of vaporization of water at 100°C, where the atmospheric pressure is 1 atm? Given that the specific heat capacity of water is 4.18 J/(g°C) and the density of water is 1 g/cm³.",
+    "message_2": "The latent heat of vaporization of water is the amount of heat required to convert 1 gram of water at its boiling point (100°C) into 1 gram of steam at the same temperature, without changing the temperature. This value is a constant and does not depend on the specific heat capacity or the density of water.\n\nFor water at 100°C and 1 atm pressure, the latent heat of vaporization is approximately 2260 J/g."
+}

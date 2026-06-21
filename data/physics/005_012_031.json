@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic kinetic energy",
+    "message_1": "What is the relativistic kinetic energy of an electron with a velocity of 0.9c (where c is the speed of light in vacuum) and a rest mass of 9.11 × 10^(-31) kg?",
+    "message_2": "To calculate the relativistic kinetic energy of an electron, we can use the following equation:\n\nK.E. = (γ - 1) * m * c^2\n\nwhere K.E. is the kinetic energy, γ (gamma) is the Lorentz factor, m is the rest mass of the electron, and c is the speed of light in vacuum.\n\nFirst, we need to calculate the Lorentz factor (γ) using the following equation:\n\nγ = 1 / sqrt(1 - (v^2 / c^2))\n\nwhere v is the velocity of the electron (0.9c).\n\nγ = 1 / sqrt(1 - (0.9c)^2 / c^2)\nγ = 1 / sqrt(1 - 0.81)\nγ = 1 / sqrt(0.19)\nγ ≈ 2.294\n\nNow, we can calculate the relativistic kinetic energy:\n\nK.E. = (γ - 1) * m * c^2\nK.E. = (2.294 - 1) * (9.11 × 10^(-31) kg) * (3 × 10^8 m/s)^2\nK.E. ≈ 1.294 * (9.11 × 10^(-31) kg) * (9 × 10^16 m^2/s^2)\nK.E. ≈ 1.294 * 8.2299 × 10^(-14) J\nK.E. ≈ 1.064 × 10^(-13) J\n\nSo, the relativistic kinetic energy of the electron is approximately 1.064 × 10^(-13) Joules."
+}

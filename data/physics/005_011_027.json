@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "A spaceship travels at 0.8c relative to an observer on Earth. Its rest mass is 5000 kg. What is its relativistic mass? Give your answer in scientific notation with 3 significant figures.",
+    "message_2": "To find the relativistic mass, we can use the following formula:\n\nrelativistic mass = rest mass / sqrt(1 - (v^2/c^2))\n\nwhere v is the velocity of the spaceship (0.8c) and c is the speed of light.\n\nFirst, we need to find the value of (v^2/c^2):\n\n(0.8c)^2 / c^2 = 0.64c^2 / c^2 = 0.64\n\nNow, we can calculate the value of sqrt(1 - (v^2/c^2)):\n\nsqrt(1 - 0.64) = sqrt(0.36) = 0.6\n\nFinally, we can find the relativistic mass:\n\nrelativistic mass = 5000 kg / 0.6 = 8333.33 kg\n\nIn scientific notation with 3 significant figures, the relativistic mass is 8.33 x 10^3 kg."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Superconductivity",
+    "sub_topic": "Investigating the critical temperature of superconductors",
+    "message_1": "What is the critical temperature of a sample of superconducting material if, when cooled to 4 K, it exhibits zero electrical resistance?",
+    "message_2": "The critical temperature (Tc) of a superconducting material is the temperature below which the material exhibits zero electrical resistance. In this case, the sample exhibits zero electrical resistance at 4 K, which means that its critical temperature is at or above 4 K. However, without more information about the specific material or its properties, it is not possible to determine the exact critical temperature. Different superconducting materials have different critical temperatures, so more information is needed to provide a precise answer."
+}

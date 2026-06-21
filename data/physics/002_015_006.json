@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of coefficient of performance of a heat pump",
+    "message_1": "A heat pump is used to maintain a room at a temperature of 20°C. The temperature outside the room is 5°C. The heat pump extracts heat from the outside air and transfers it to the room. If the heat pump has a coefficient of performance of 4, calculate the amount of heat extracted from the outside air by the heat pump to maintain the room temperature.",
+    "message_2": "To calculate the amount of heat extracted from the outside air by the heat pump, we need to know the amount of heat delivered to the room. However, we don't have enough information to determine this value. We need either the power consumption of the heat pump or the heat loss from the room to the outside environment.\n\nIf you can provide either of these values, we can proceed with the calculation."
+}

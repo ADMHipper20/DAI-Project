@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Black holes",
+    "sub_topic": "The structure and properties of event horizons",
+    "message_1": "What is the minimum radius of a black hole needed to form an event horizon, given its mass? How does the radius of the event horizon change as the mass of the black hole increases?",
+    "message_2": "The minimum radius of a black hole needed to form an event horizon is called the Schwarzschild radius. The Schwarzschild radius (Rs) is the radius of the event horizon surrounding a non-rotating black hole and can be calculated using the following formula:\n\nRs = 2GM/c^2\n\nwhere G is the gravitational constant (approximately 6.674 x 10^-11 m^3 kg^-1 s^-2), M is the mass of the black hole, and c is the speed of light (approximately 3 x 10^8 m/s).\n\nAs the mass of the black hole increases, the radius of the event horizon also increases. This relationship is linear, meaning that if the mass of the black hole doubles, the Schwarzschild radius will also double."
+}

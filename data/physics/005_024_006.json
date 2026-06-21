@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic cosmology",
+    "message_1": "What is the maximum age of the universe according to the current understanding of relativistic cosmology?",
+    "message_2": "According to the current understanding of relativistic cosmology, the age of the universe is approximately 13.8 billion years old. This estimate is based on observations of the cosmic microwave background radiation, the large-scale structure of the universe, and the expansion rate of the universe, which is described by the Hubble constant. The age of the universe is determined by considering the evolution of the universe from the Big Bang to the present day within the framework of the Lambda-CDM model, which includes dark energy and dark matter."
+}

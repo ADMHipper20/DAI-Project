@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "What is the energy of the first excited state in a mercury atom as determined by the Franck-Hertz experiment?",
+    "message_2": "The Franck-Hertz experiment is a famous experiment in physics that demonstrated the quantization of energy levels in atoms. In this experiment, electrons are accelerated through a low-pressure gas of mercury atoms, and the energy transfer between the electrons and the mercury atoms is observed.\n\nThe energy of the first excited state in a mercury atom, as determined by the Franck-Hertz experiment, is approximately 4.9 electron volts (eV). This value corresponds to the energy required for an electron to transition from the ground state to the first excited state in the mercury atom."
+}

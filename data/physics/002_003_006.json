@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A physicist measures the temperature of a system to be 500 K, and calculates its volume to be 2.5 m³. The system undergoes a process that involves giving off 5000 J of heat to the surroundings and performing 2500 J of work on the surroundings. What is the internal energy change of the system?",
+    "message_2": "To calculate the internal energy change of the system, we can use the first law of thermodynamics, which states:\n\nΔU = Q - W\n\nwhere ΔU is the change in internal energy, Q is the heat exchanged with the surroundings, and W is the work done on the surroundings.\n\nIn this case, the system gives off 5000 J of heat to the surroundings, so Q = -5000 J (negative because heat is given off). The system also performs 2500 J of work on the surroundings, so W = 2500 J.\n\nNow we can plug these values into the first law of thermodynamics equation:\n\nΔU = (-5000 J) - (2500 J) = -7500 J\n\nThe internal energy change of the system is -7500 J."
+}

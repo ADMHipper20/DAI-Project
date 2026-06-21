@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Condensed matter physics",
+    "sub_topic": "Study of thermal properties of materials",
+    "message_1": "What is the thermal conductivity of silicon dioxide at room temperature? And how does it vary with the increase in temperature?",
+    "message_2": "The thermal conductivity of silicon dioxide (SiO2) at room temperature (around 25°C or 298 K) is approximately 1.4 W/m·K.\n\nThe thermal conductivity of SiO2 generally decreases with increasing temperature. This is due to the fact that silicon dioxide is an insulator, and its thermal conductivity is mainly governed by lattice vibrations (phonons). As the temperature increases, the phonon scattering increases, leading to a decrease in thermal conductivity. However, the exact variation of thermal conductivity with temperature depends on the specific form of SiO2 (e.g., amorphous, crystalline, or glass) and the presence of impurities or dopants.\n\nFor a more accurate analysis of how the thermal conductivity of SiO2 varies with temperature, you would need to consult specific experimental data or models for the particular form of SiO2 you are interested in."
+}

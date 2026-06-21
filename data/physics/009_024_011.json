@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarizers",
+    "message_1": "What is the angle of incidence of a polarized light ray that undergoes 100% transmission through a polarizer with an extinction axis at 45° to the direction of polarization of the incident ray? How will the intensity of the transmitted light vary if the incident angle is changed?",
+    "message_2": "The angle of incidence of a polarized light ray that undergoes 100% transmission through a polarizer with an extinction axis at 45° to the direction of polarization of the incident ray is 0°. This means that the light ray is incident perpendicular to the surface of the polarizer.\n\nWhen the angle of incidence is changed, the intensity of the transmitted light will vary according to Malus's Law. Malus's Law states that the intensity of the transmitted light (I_t) is proportional to the square of the cosine of the angle (θ) between the plane of polarization of the incident light and the extinction axis of the polarizer:\n\nI_t = I_0 * cos²(θ)\n\nwhere I_0 is the intensity of the incident light.\n\nAs the angle of incidence changes, the angle between the plane of polarization of the incident light and the extinction axis of the polarizer will also change, causing the intensity of the transmitted light to vary according to the above equation."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the latent heat of vaporization of water at a pressure of 1 atm when 50 grams of water is vaporized using 5000 joules of heat?",
+    "message_2": "The latent heat of vaporization (L) is the amount of heat required to convert a unit mass of a substance from liquid to vapor at a constant temperature and pressure. In this case, we are given the mass (m) of water vaporized and the heat (Q) used for vaporization. We can use the following formula to find the latent heat of vaporization:\n\nQ = mL\n\nwhere Q is the heat used for vaporization, m is the mass of the substance, and L is the latent heat of vaporization.\n\nWe are given the values of Q (5000 J) and m (50 g). We can rearrange the formula to find L:\n\nL = Q/m\n\nFirst, we need to convert the mass of water from grams to kilograms:\n\n50 g = 0.05 kg\n\nNow, we can plug in the values into the formula:\n\nL = 5000 J / 0.05 kg\nL = 100,000 J/kg\n\nThe latent heat of vaporization of water at a pressure of 1 atm is 100,000 J/kg."
+}

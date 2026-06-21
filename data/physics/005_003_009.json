@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic velocity addition",
+    "message_1": "A spaceship S is moving at 0.6c relative to the Earth E. Another spaceship X is moving at 0.8c relative to S. What is the velocity of X as seen by Earth?",
+    "message_2": "To solve this problem, we will use the relativistic velocity addition formula:\n\nV = (V1 + V2) / (1 + (V1 * V2) / c^2)\n\nwhere V is the velocity of spaceship X relative to Earth, V1 is the velocity of spaceship S relative to Earth (0.6c), V2 is the velocity of spaceship X relative to spaceship S (0.8c), and c is the speed of light.\n\nPlugging in the values:\n\nV = (0.6c + 0.8c) / (1 + (0.6c * 0.8c) / c^2)\n\nV = (1.4c) / (1 + 0.48)\n\nV = 1.4c / 1.48\n\nV ≈ 0.946c\n\nSo the velocity of spaceship X as seen by Earth is approximately 0.946c."
+}

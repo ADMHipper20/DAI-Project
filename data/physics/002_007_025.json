@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "\"Calculate the heat capacity of copper, given that it requires 385 J of energy to raise the temperature of a 50 g sample from 25°C to 50°C. Also, determine the specific heat capacity of copper.\"",
+    "message_2": "To calculate the heat capacity and specific heat capacity of copper, we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in joules), m is the mass of the sample (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nq = 385 J\nm = 50 g\nΔT = 50°C - 25°C = 25°C\n\nWe can rearrange the formula to solve for the specific heat capacity (c):\n\nc = q / (mΔT)\n\nPlugging in the given values:\n\nc = 385 J / (50 g × 25°C)\nc = 385 J / 1250 g°C\nc = 0.308 J/g°C\n\nSo, the specific heat capacity of copper is 0.308 J/g°C.\n\nNow, to calculate the heat capacity of copper, we can use the formula:\n\nHeat Capacity = mc\n\nUsing the mass of the sample (50 g) and the specific heat capacity we just calculated (0.308 J/g°C):\n\nHeat Capacity = 50 g × 0.308 J/g°C\nHeat Capacity = 15.4 J/°C\n\nTherefore, the heat capacity of copper is 15.4 J/°C."
+}

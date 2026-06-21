@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of aluminum given that 100 grams of it was heated using 500 joules of energy and experienced a temperature rise of 25 ℃?",
+    "message_2": "The specific heat capacity (c) of a substance can be calculated using the formula:\n\nq = mcΔT\n\nwhere q is the heat energy (in joules), m is the mass (in grams), c is the specific heat capacity (in J/g℃), and ΔT is the change in temperature (in ℃).\n\nWe are given the following values:\nq = 500 J\nm = 100 g\nΔT = 25 ℃\n\nWe need to find the specific heat capacity (c) of aluminum. Rearranging the formula to solve for c, we get:\n\nc = q / (mΔT)\n\nNow, plug in the given values:\n\nc = 500 J / (100 g × 25 ℃)\nc = 500 J / 2500 g℃\nc = 0.2 J/g℃\n\nThe specific heat capacity of aluminum is 0.2 J/g℃."
+}

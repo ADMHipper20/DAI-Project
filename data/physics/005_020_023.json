@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship is travelling away from Earth at a speed of 0.8c. A signal is sent from Earth at a frequency of 5 GHz. What is the frequency of the signal received on the spaceship? (Assume the speed of light is c = 3×10^8 m/s)",
+    "message_2": "To find the frequency of the signal received on the spaceship, we need to use the relativistic Doppler effect formula:\n\nf' = f * sqrt((1 - β) / (1 + β))\n\nwhere f' is the frequency received on the spaceship, f is the frequency of the signal sent from Earth, and β is the ratio of the spaceship's speed to the speed of light (v/c).\n\nIn this case, f = 5 GHz and β = 0.8.\n\nf' = 5 * sqrt((1 - 0.8) / (1 + 0.8))\nf' = 5 * sqrt(0.2 / 1.8)\nf' = 5 * sqrt(0.1111)\nf' ≈ 5 * 0.3333\nf' ≈ 1.6667 GHz\n\nSo, the frequency of the signal received on the spaceship is approximately 1.67 GHz."
+}

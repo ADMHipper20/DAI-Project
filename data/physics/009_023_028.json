@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Malus' Law",
+    "message_1": "How does the intensity of transmitted plane-polarized light through an analyzer depend on the angle between the polarization axes of the polarizer and the analyzer, as predicted by Malus' Law?",
+    "message_2": "Malus' Law describes the dependence of the intensity of transmitted plane-polarized light through an analyzer on the angle between the polarization axes of the polarizer and the analyzer. According to Malus' Law, the intensity (I) of the transmitted light is proportional to the square of the cosine of the angle (θ) between the polarization axes of the polarizer and the analyzer.\n\nMathematically, Malus' Law can be expressed as:\n\nI = I₀ * cos²(θ)\n\nwhere:\n- I is the intensity of the transmitted light through the analyzer\n- I₀ is the intensity of the incident plane-polarized light\n- θ is the angle between the polarization axes of the polarizer and the analyzer\n\nWhen the polarization axes of the polarizer and the analyzer are parallel (θ = 0°), the intensity of the transmitted light is maximum (I = I₀). When the polarization axes are perpendicular (θ = 90°), the intensity of the transmitted light is minimum (I = 0). For other angles, the intensity of the transmitted light varies according to the square of the cosine of the angle between the polarization axes."
+}

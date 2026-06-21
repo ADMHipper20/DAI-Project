@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Malus' Law",
+    "message_1": "A polarizer allows only the vertical components of light to pass through it. A beam of unpolarized light is incident on the polarizer. If the intensity of the incident light is 10W/m2, what will be the intensity of the light emerging from the polarizer? Use Malus' Law to solve this problem.",
+    "message_2": "Malus' Law states that the intensity of light emerging from a polarizer is given by:\n\nI = I₀ * cos²θ\n\nwhere I is the intensity of the emerging light, I₀ is the intensity of the incident light, and θ is the angle between the polarization direction of the polarizer and the electric field vector of the incident light.\n\nFor unpolarized light, the average value of cos²θ over all possible angles is 1/2. Therefore, the intensity of the light emerging from the polarizer is:\n\nI = I₀ * (1/2)\n\nGiven the intensity of the incident light (I₀) is 10 W/m², we can calculate the intensity of the emerging light:\n\nI = 10 W/m² * (1/2) = 5 W/m²\n\nSo, the intensity of the light emerging from the polarizer is 5 W/m²."
+}

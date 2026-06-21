@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of enthalpy change in a reaction",
+    "message_1": "What is the enthalpy change of combustion of methane gas when 5 moles of methane reacts with excess oxygen gas at standard conditions (298 K and 1 atm)?",
+    "message_2": "To calculate the enthalpy change of combustion of methane gas, we need to know the balanced chemical equation for the combustion of methane and the standard enthalpy of formation for each compound involved.\n\nThe balanced chemical equation for the combustion of methane is:\n\nCH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\n\nThe standard enthalpy of formation (ΔHf°) for each compound at 298 K is as follows:\n\nΔHf°(CH₄) = -74.8 kJ/mol\nΔHf°(O₂) = 0 kJ/mol (since O₂ is in its elemental form)\nΔHf°(CO₂) = -393.5 kJ/mol\nΔHf°(H₂O) = -285.8 kJ/mol\n\nNow, we can use Hess's Law to calculate the enthalpy change of combustion (ΔHc°) for methane:\n\nΔHc° = [ΔHf°(CO₂) + 2ΔHf°(H₂O)] - [ΔHf°(CH₄) + 2ΔHf°(O₂)]\n\nΔHc° = [-393.5 + 2(-285.8)] - [-74.8 + 2(0)]\n\nΔHc° = (-393.5 - 571.6) - (-74.8)\n\nΔHc° = -965.1 + 74.8\n\nΔHc° = -890.3 kJ/mol\n\nNow, we can calculate the enthalpy change for the combustion of 5 moles of methane:\n\nΔH = (ΔHc°)(n)\n\nΔH = (-890.3 kJ/mol)(5 mol)\n\nΔH = -4451.5 kJ\n\nSo, the enthalpy change of combustion of methane gas when 5 moles of methane reacts with excess oxygen gas at standard conditions is -4451.5 kJ."
+}

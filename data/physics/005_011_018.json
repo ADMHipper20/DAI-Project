@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "\"A spacecraft travels at a velocity of 0.8c relative to an observer on Earth. What will be the relativistic mass of the spacecraft if its rest mass is 1000 kg?\"",
+    "message_2": "To find the relativistic mass of the spacecraft, we can use the following equation:\n\nrelativistic mass (m) = rest mass (m0) / sqrt(1 - v^2/c^2)\n\nwhere m0 is the rest mass, v is the velocity of the spacecraft, and c is the speed of light.\n\nGiven:\nm0 = 1000 kg\nv = 0.8c\n\nWe can plug these values into the equation:\n\nm = 1000 kg / sqrt(1 - (0.8c)^2/c^2)\n\nm = 1000 kg / sqrt(1 - 0.64)\n\nm = 1000 kg / sqrt(0.36)\n\nm = 1000 kg / 0.6\n\nm ≈ 1666.67 kg\n\nSo, the relativistic mass of the spacecraft is approximately 1666.67 kg."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave interference",
+    "message_1": "A student is standing at the origin of an inertial frame and observes two light rays with a wavelength of 600 nm approaching the origin from the x-axis and y-axis respectively. What is the phase difference between the two waves when they meet at the origin according to the student? Consider special relativity effects.",
+    "message_2": "Since the student is at the origin of an inertial frame and the light rays are approaching from the x-axis and y-axis, we can assume that the student is at rest relative to the light sources. In this case, special relativity effects do not play a significant role in determining the phase difference between the two waves.\n\nThe phase difference between two waves can be determined by comparing the path difference between the two waves and the wavelength of the light. In this case, both light rays are traveling the same distance to reach the origin, so the path difference is zero.\n\nWhen the path difference is zero, the phase difference between the two waves is also zero. Therefore, the phase difference between the two light rays when they meet at the origin according to the student is 0 radians or 0 degrees."
+}

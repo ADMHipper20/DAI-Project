@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A photon travels at a speed of c in a vacuum. If the wavelength of the photon is 500 nm as measured in the lab frame, what is its wavelength as measured by an observer who is moving at a speed of 0.5c relative to the lab frame?",
+    "message_2": "To solve this problem, we need to use the relativistic Doppler effect formula for the wavelength of light. The formula is:\n\nλ_obs = λ_lab * sqrt((1 + β) / (1 - β))\n\nwhere λ_obs is the observed wavelength, λ_lab is the wavelength in the lab frame, β is the ratio of the observer's speed (v) to the speed of light (c), and sqrt denotes the square root.\n\nIn this case, λ_lab = 500 nm and β = 0.5c / c = 0.5.\n\nNow, we can plug these values into the formula:\n\nλ_obs = 500 nm * sqrt((1 + 0.5) / (1 - 0.5))\nλ_obs = 500 nm * sqrt(1.5 / 0.5)\nλ_obs = 500 nm * sqrt(3)\n\nλ_obs ≈ 500 nm * 1.732\nλ_obs ≈ 866 nm\n\nSo, the wavelength of the photon as measured by the observer moving at a speed of 0.5c relative to the lab frame is approximately 866 nm."
+}

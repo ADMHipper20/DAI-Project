@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Fluid mechanics",
+    "sub_topic": "Rheology and non-Newtonian fluids",
+    "message_1": "\"What is the relationship between shear stress and shear rate for a shear-thinning fluid?\"",
+    "message_2": "For a shear-thinning fluid, the relationship between shear stress (τ) and shear rate (γ) is given by the power-law model, also known as the Ostwald-de Waele model:\n\nτ = K * (γ)^n\n\nwhere:\nτ (tau) is the shear stress, typically measured in units of force per unit area (e.g., Pascals, Pa),\nγ (gamma) is the shear rate, typically measured in units of inverse time (e.g., reciprocal seconds, s⁻¹),\nK is the consistency index, a material property that depends on the fluid's composition and temperature,\nn is the flow behavior index, a dimensionless parameter that characterizes the fluid's shear-thinning behavior.\n\nFor a shear-thinning fluid, the flow behavior index (n) is less than 1 (n < 1). This means that as the shear rate increases, the shear stress increases at a slower rate, causing the fluid to become less viscous and \"thin out\" under shear."
+}

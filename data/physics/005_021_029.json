@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A physics student is standing on a train platform as a train approaches at a constant velocity of 0.8c. The train emits a beam of light from its front end towards the student. How fast does the student observe the beam of light moving towards them?",
+    "message_2": "According to the theory of special relativity, the speed of light in a vacuum is always constant, regardless of the relative motion of the observer and the light source. Therefore, the student will observe the beam of light moving towards them at the speed of light, which is approximately 299,792,458 meters per second (or simply c)."
+}

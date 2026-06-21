@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Critical Angle",
+    "message_1": "A glass prism has an index of refraction of 1.5. What is the minimum angle of incidence required for total internal reflection to occur when a light ray travels from the prism to air?",
+    "message_2": "Total internal reflection occurs when the angle of incidence is greater than the critical angle. The critical angle (θc) can be calculated using Snell's Law:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nFor total internal reflection, θ2 = 90° (since the refracted ray will be along the interface between the two media). The index of refraction for air is n2 = 1. Let n1 = 1.5 (the index of refraction for the glass prism). We can now solve for the critical angle:\n\n1.5 * sin(θc) = 1 * sin(90°)\nsin(θc) = 1 / 1.5\nθc = arcsin(1 / 1.5)\n\nθc ≈ 41.81°\n\nSo, the minimum angle of incidence required for total internal reflection to occur when a light ray travels from the prism to air is approximately 41.81°."
+}

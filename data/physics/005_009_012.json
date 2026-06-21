@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "A spaceship travels towards the Earth at a speed of 0.9c. If the spaceship's horn produces a sound with a frequency of 500Hz, what frequency will be heard by an Earth observer? (Assuming the speed of sound in air is negligible compared to the speed of light.)",
+    "message_2": "To solve this problem, we need to use the Doppler effect formula for electromagnetic waves (since sound waves cannot travel through the vacuum of space, we will assume the spaceship's horn is producing an electromagnetic signal at 500 Hz). The Doppler effect formula for electromagnetic waves is:\n\nf' = f * (c + v_r) / (c + v_s)\n\nwhere:\nf' is the observed frequency on Earth\nf is the source frequency (500 Hz)\nc is the speed of light (approximately 3.0 x 10^8 m/s)\nv_r is the speed of the receiver (Earth) relative to the medium (0 in this case, since the Earth is not moving towards or away from the spaceship)\nv_s is the speed of the source (spaceship) relative to the medium (-0.9c, since it is moving towards Earth)\n\nPlugging in the values, we get:\n\nf' = 500 * (3.0 x 10^8) / (3.0 x 10^8 - 0.9 * 3.0 x 10^8)\n\nf' = 500 * (3.0 x 10^8) / (1.2 x 10^8)\n\nf' = 500 * 2.5\n\nf' = 1250 Hz\n\nSo, an Earth observer would hear a frequency of 1250 Hz."
+}

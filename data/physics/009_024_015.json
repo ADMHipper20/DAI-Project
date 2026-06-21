@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarizers",
+    "message_1": "A physics student needs to determine the angle between two ideal polarizers that are 50% transmissive when they are crossed and 100% transmissive when they are parallel to each other. The student has a light source that emits unpolarized light and a protractor to measure the angle between the polarizers. What is the angle between the polarizers?",
+    "message_2": "To find the angle between the two ideal polarizers, we can use Malus' Law, which states that the intensity of light transmitted through two polarizers is proportional to the square of the cosine of the angle between their transmission axes:\n\nI = I₀ * cos²(θ)\n\nwhere I is the transmitted intensity, I₀ is the initial intensity, and θ is the angle between the polarizers.\n\nWhen the polarizers are crossed (50% transmissive), the transmitted intensity is half of the initial intensity:\n\n0.5 * I₀ = I₀ * cos²(θ)\n\nDivide both sides by I₀:\n\n0.5 = cos²(θ)\n\nNow, take the square root of both sides:\n\nsqrt(0.5) = cos(θ)\n\ncos(θ) = 1/sqrt(2)\n\nNow, find the angle θ using the inverse cosine function:\n\nθ = arccos(1/sqrt(2))\n\nθ ≈ 45°\n\nSo, the angle between the two ideal polarizers is approximately 45 degrees."
+}

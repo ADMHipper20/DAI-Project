@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Total Internal Reflection",
+    "message_1": "A light ray travels from glass into water. Given the refractive index of glass and water, find the critical angle at which the light ray will undergo total internal reflection at the interface of two media.",
+    "message_2": "To find the critical angle for total internal reflection, we can use Snell's Law, which states:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nHere, n1 and n2 are the refractive indices of glass and water, respectively, and θ1 and θ2 are the angles of incidence and refraction, respectively. \n\nTotal internal reflection occurs when the angle of refraction (θ2) is 90 degrees. In this case, sin(θ2) = sin(90°) = 1. \n\nLet's denote the critical angle as θc. At the critical angle, Snell's Law becomes:\n\nn1 * sin(θc) = n2\n\nNow, we can solve for the critical angle:\n\nsin(θc) = n2 / n1\nθc = arcsin(n2 / n1)\n\nPlease provide the refractive indices of glass and water to calculate the critical angle."
+}

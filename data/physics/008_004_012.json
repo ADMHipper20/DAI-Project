@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The measurement of the top quark mass",
+    "message_1": "What is the current best estimate of the mass of the top quark according to the latest measurements done by the ATLAS and CMS experiments at CERN's Large Hadron Collider?",
+    "message_2": "As of September 2021, the current best estimate of the mass of the top quark, according to the latest measurements done by the ATLAS and CMS experiments at CERN's Large Hadron Collider, is approximately 172.76 GeV/c². This value is a combination of results from both experiments and is subject to change as new data and analyses become available."
+}

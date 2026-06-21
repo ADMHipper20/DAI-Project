@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying rod",
+    "message_1": "What is the magnetic field at a point located a distance of 10 cm from a straight, current-carrying wire that carries a current of 5 A?",
+    "message_2": "To calculate the magnetic field at a point located a distance of 10 cm from a straight, current-carrying wire, we can use the formula derived from Ampere's Law:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10⁻⁷ T·m/A), I is the current in the wire (5 A), and r is the distance from the wire (0.1 m).\n\nB = (4π × 10⁻⁷ T·m/A * 5 A) / (2 * π * 0.1 m)\n\nB = (20π × 10⁻⁷ T·m) / (0.2π m)\n\nB = 10 × 10⁻⁶ T\n\nB = 10 μT\n\nThe magnetic field at a point located 10 cm from the straight, current-carrying wire is 10 μT (microteslas)."
+}

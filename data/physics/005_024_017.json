@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic cosmology",
+    "message_1": "A spaceship travels through space at a velocity of 0.8c relative to the Earth. If the spaceship's crew measures the distance to a distant star to be 12 light-years, how far away is the star as measured by an observer on Earth? Assume that the distance between the Earth and the star is perpendicular to the direction of motion of the spaceship.",
+    "message_2": "Since the distance between the Earth and the star is perpendicular to the direction of motion of the spaceship, the Lorentz contraction does not apply in this case. Therefore, the distance measured by the spaceship's crew and the observer on Earth will be the same.\n\nSo, the distance to the star as measured by an observer on Earth is also 12 light-years."
+}

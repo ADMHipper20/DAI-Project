@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Snell's Law",
+    "message_1": "A ray of light travelling in air enters a glass slab of refractive index 1.5 at an angle of incidence of 30 degrees. Calculate the angle of refraction according to Snell's Law.",
+    "message_2": "Snell's Law states that the ratio of the sine of the angle of incidence to the sine of the angle of refraction is equal to the ratio of the refractive indices of the two media. Mathematically, it can be written as:\n\nn1 * sin(θ1) = n2 * sin(θ2)\n\nwhere n1 and θ1 are the refractive index and angle of incidence in the first medium (air), and n2 and θ2 are the refractive index and angle of refraction in the second medium (glass).\n\nIn this case, n1 = 1 (refractive index of air), θ1 = 30 degrees, and n2 = 1.5 (refractive index of glass). We want to find θ2, the angle of refraction.\n\n1 * sin(30) = 1.5 * sin(θ2)\n\nsin(30) = 0.5, so:\n\n0.5 = 1.5 * sin(θ2)\n\nNow, divide both sides by 1.5:\n\n0.5 / 1.5 = sin(θ2)\n\n0.3333 = sin(θ2)\n\nTo find θ2, take the inverse sine (arcsin) of 0.3333:\n\nθ2 = arcsin(0.3333)\n\nθ2 ≈ 19.47 degrees\n\nSo, the angle of refraction is approximately 19.47 degrees."
+}

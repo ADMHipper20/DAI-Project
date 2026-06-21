@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Black holes",
+    "sub_topic": "The structure and properties of event horizons",
+    "message_1": "What is the size of the event horizon of a black hole that has a mass 10 times greater than that of the sun?",
+    "message_2": "The size of the event horizon of a black hole can be determined using the Schwarzschild radius formula:\n\nR_s = 2GM/c^2\n\nwhere R_s is the Schwarzschild radius (event horizon), G is the gravitational constant (6.674 x 10^-11 m^3 kg^-1 s^-2), M is the mass of the black hole, and c is the speed of light (2.998 x 10^8 m/s).\n\nThe mass of the sun is approximately 1.989 x 10^30 kg. If the black hole has a mass 10 times greater than that of the sun, its mass would be:\n\nM = 10 * (1.989 x 10^30 kg) = 1.989 x 10^31 kg\n\nNow we can plug the values into the Schwarzschild radius formula:\n\nR_s = (2 * (6.674 x 10^-11 m^3 kg^-1 s^-2) * (1.989 x 10^31 kg)) / (2.998 x 10^8 m/s)^2\n\nR_s ≈ 2.95 x 10^4 meters\n\nSo, the size of the event horizon of a black hole with a mass 10 times greater than that of the sun is approximately 29.5 kilometers."
+}

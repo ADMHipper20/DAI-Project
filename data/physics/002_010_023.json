@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "Calculate the latent heat of vaporization of water at a pressure of 1 atm, given that the specific enthalpy of steam at 100°C is 2676 kJ/kg and the specific enthalpy of liquid water at 100°C is 419 kJ/kg.",
+    "message_2": "To calculate the latent heat of vaporization of water, we need to find the difference between the specific enthalpy of steam and the specific enthalpy of liquid water at the same temperature (100°C).\n\nLatent heat of vaporization (L) = Specific enthalpy of steam - Specific enthalpy of liquid water\n\nL = 2676 kJ/kg - 419 kJ/kg\n\nL = 2257 kJ/kg\n\nThe latent heat of vaporization of water at a pressure of 1 atm and 100°C is 2257 kJ/kg."
+}

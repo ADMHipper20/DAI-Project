@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "What is the change in frequency observed by an observer at rest when a source emitting waves of frequency 5 MHz moves towards them at a speed of 0.9c? (Assuming c=3x10^8 m/s)",
+    "message_2": "To solve this problem, we will use the Doppler effect formula for relativistic speeds. The formula is:\n\nf_observed = f_source * (1 + v/c) / sqrt(1 - (v/c)^2)\n\nwhere f_observed is the observed frequency, f_source is the source frequency, v is the speed of the source relative to the observer, and c is the speed of light.\n\nGiven:\nf_source = 5 MHz = 5 * 10^6 Hz\nv = 0.9c = 0.9 * 3 * 10^8 m/s\n\nNow, we can plug these values into the formula:\n\nf_observed = (5 * 10^6 Hz) * (1 + 0.9) / sqrt(1 - (0.9)^2)\nf_observed = (5 * 10^6 Hz) * (1.9) / sqrt(1 - 0.81)\nf_observed = (5 * 10^6 Hz) * (1.9) / sqrt(0.19)\n\nNow, we can calculate the observed frequency:\n\nf_observed ≈ (5 * 10^6 Hz) * (1.9) / 0.43589\nf_observed ≈ 21.8 * 10^6 Hz\n\nThe change in frequency is the difference between the observed frequency and the source frequency:\n\nΔf = f_observed - f_source\nΔf ≈ (21.8 * 10^6 Hz) - (5 * 10^6 Hz)\nΔf ≈ 16.8 * 10^6 Hz\n\nSo, the change in frequency observed by the observer at rest when the source emitting waves of frequency 5 MHz moves towards them at a speed of 0.9c is approximately 16.8 MHz."
+}

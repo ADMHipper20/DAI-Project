@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "An observer on Earth detects a radio signal at a frequency of 100 MHz from a spacecraft travelling at 0.8c (where c is the speed of light). What frequency does the observer on the spacecraft detect? (Assume the direction of motion of the spacecraft is towards the Earth.)",
+    "message_2": "To solve this problem, we need to use the relativistic Doppler effect formula. The formula for the observed frequency (f_obs) detected by the observer on Earth is:\n\nf_obs = f_source * sqrt((1 + v/c) / (1 - v/c))\n\nwhere f_source is the frequency detected by the observer on the spacecraft, v is the relative velocity between the Earth and the spacecraft (0.8c), and c is the speed of light.\n\nWe are given f_obs (100 MHz) and v (0.8c), and we need to find f_source. Rearranging the formula to solve for f_source, we get:\n\nf_source = f_obs / sqrt((1 + v/c) / (1 - v/c))\n\nPlugging in the given values:\n\nf_source = (100 MHz) / sqrt((1 + 0.8) / (1 - 0.8))\n\nf_source = (100 MHz) / sqrt(1.8 / 0.2)\n\nf_source = (100 MHz) / sqrt(9)\n\nf_source = (100 MHz) / 3\n\nf_source ≈ 33.33 MHz\n\nSo, the observer on the spacecraft detects a frequency of approximately 33.33 MHz."
+}

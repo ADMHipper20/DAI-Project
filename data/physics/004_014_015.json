@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The cosmic microwave background radiation",
+    "message_1": "What is the age of the universe as estimated from the cosmic microwave background radiation data, assuming a flat universe governed by the principles of general relativity?",
+    "message_2": "The age of the universe, as estimated from the cosmic microwave background (CMB) radiation data and assuming a flat universe governed by the principles of general relativity, is approximately 13.8 billion years. This estimation is based on the observations made by the Planck satellite and other experiments that have measured the CMB temperature fluctuations, which provide information about the universe's early history and its expansion rate."
+}

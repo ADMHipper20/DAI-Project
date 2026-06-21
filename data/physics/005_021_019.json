@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "What is the wavelength of light emitted by a moving source with an initial wavelength of 550 nm if it is moving at a velocity of 0.75c relative to an observer? (where c is the speed of light in vacuum).",
+    "message_2": "To find the wavelength of light emitted by a moving source, we can use the Doppler effect formula for light. The formula is:\n\nλ_observed = λ_source * (1 + (v/c) / sqrt(1 - (v/c)^2))\n\nwhere λ_observed is the observed wavelength, λ_source is the initial wavelength, v is the velocity of the source relative to the observer, and c is the speed of light in vacuum.\n\nGiven the initial wavelength (λ_source) of 550 nm and the velocity (v) of 0.75c, we can plug in the values into the formula:\n\nλ_observed = 550 nm * (1 + (0.75c/c) / sqrt(1 - (0.75c/c)^2))\n\nλ_observed = 550 nm * (1 + 0.75 / sqrt(1 - 0.75^2))\n\nλ_observed = 550 nm * (1 + 0.75 / sqrt(1 - 0.5625))\n\nλ_observed = 550 nm * (1 + 0.75 / sqrt(0.4375))\n\nλ_observed = 550 nm * (1 + 0.75 / 0.661437)\n\nλ_observed = 550 nm * (1 + 1.133893)\n\nλ_observed = 550 nm * 2.133893\n\nλ_observed ≈ 1174.64 nm\n\nSo, the wavelength of light emitted by the moving source as observed by the observer is approximately 1174.64 nm."
+}

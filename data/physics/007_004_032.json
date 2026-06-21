@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear reactors and their design",
+    "message_1": "What is the optimal ratio of fuel rods to control rods needed in a nuclear reactor to achieve maximum efficiency and stability, while also ensuring that the reactor maintains a safe temperature and radiation level?",
+    "message_2": "The optimal ratio of fuel rods to control rods in a nuclear reactor depends on the specific design and type of reactor being used. However, a general rule of thumb is to have one control rod for every cluster of fuel rods, which can range from 4 to 20 fuel rods per cluster. This allows for efficient control of the nuclear reaction while maintaining stability and safety.\n\nIt is important to note that the specific ratio may vary depending on factors such as reactor size, fuel type, and desired power output. The reactor's design and safety systems must be carefully engineered to ensure that the reactor operates within safe temperature and radiation levels while achieving maximum efficiency."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Calculation of the ionization energy of atoms",
+    "message_1": "What is the minimum energy required to remove the outermost electron from a lithium atom in the ground state?",
+    "message_2": "The minimum energy required to remove the outermost electron from a lithium atom in the ground state is called the ionization energy. For lithium, the first ionization energy is approximately 5.39 eV (electron volts) or 514 kJ/mol (kilojoules per mole). This is the energy needed to remove the outermost electron from a lithium atom and turn it into a Li+ ion."
+}

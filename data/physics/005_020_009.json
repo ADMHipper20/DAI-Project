@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "\"What is the observed frequency of a light wave emitted by a spacecraft traveling at 0.6c relative to an observer on Earth, if the frequency emitted by spacecraft is 10 MHz?\"",
+    "message_2": "To calculate the observed frequency of the light wave, we need to use the Doppler effect formula for electromagnetic waves. The formula is:\n\nf_observed = f_emitted * (sqrt(1 - v^2/c^2)) / (1 - (v/c))\n\nwhere:\nf_observed = observed frequency\nf_emitted = emitted frequency (10 MHz)\nv = velocity of the spacecraft relative to the observer (0.6c)\nc = speed of light\n\nPlugging in the values:\n\nf_observed = 10 MHz * (sqrt(1 - (0.6c)^2/c^2)) / (1 - (0.6c/c))\n\nf_observed = 10 MHz * (sqrt(1 - 0.36)) / (1 - 0.6)\n\nf_observed = 10 MHz * (sqrt(0.64)) / (0.4)\n\nf_observed = 10 MHz * 0.8 / 0.4\n\nf_observed = 20 MHz\n\nSo, the observed frequency of the light wave emitted by the spacecraft is 20 MHz."
+}

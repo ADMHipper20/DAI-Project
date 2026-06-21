@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Astrophysics",
+    "sub_topic": "Neutron stars and pulsars",
+    "message_1": "Calculate the escape velocity from the surface of a Neutron star, given its radius and mass.",
+    "message_2": "To calculate the escape velocity from the surface of a Neutron star, we can use the following formula:\n\nEscape velocity (v) = √(2 * G * M / R)\n\nwhere:\n- G is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2)\n- M is the mass of the Neutron star (in kilograms)\n- R is the radius of the Neutron star (in meters)\n\nPlease provide the mass and radius of the Neutron star for which you want to calculate the escape velocity."
+}

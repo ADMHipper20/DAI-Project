@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "An incident beam of monochromatic light with a wavelength of 600 nm is diffracted through a single slit of width 0.1 mm. What is the first minimum angle of diffraction for this setup?",
+    "message_2": "To find the first minimum angle of diffraction for a single slit, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angle of diffraction, m is the order of the minimum (m = 1 for the first minimum), λ is the wavelength of the light, and a is the width of the slit.\n\nGiven the wavelength λ = 600 nm = 600 * 10^(-9) m and the slit width a = 0.1 mm = 0.1 * 10^(-3) m, we can plug these values into the formula:\n\nsin(θ) = (1 * 600 * 10^(-9)) / (0.1 * 10^(-3))\n\nsin(θ) = 6 * 10^(-6)\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(6 * 10^(-6))\n\nθ ≈ 3.44 * 10^(-4) radians\n\nTo convert this angle to degrees, we can use the conversion factor 180°/π:\n\nθ ≈ (3.44 * 10^(-4) * 180) / π\n\nθ ≈ 0.0197°\n\nSo, the first minimum angle of diffraction for this setup is approximately 0.0197°."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "What would be the angle of incidence of unpolarized light onto a glass surface with a refractive index of 1.5, to achieve maximum polarization? (Use Brewster's Law to solve the problem)",
+    "message_2": "Brewster's Law states that the angle of incidence at which maximum polarization occurs is when the reflected light is at a 90-degree angle to the refracted light. In this case, the angle of incidence is called the Brewster angle (θ_B). The law can be expressed as:\n\ntan(θ_B) = n₂/n₁\n\nwhere n₁ is the refractive index of the first medium (air, in this case, with a refractive index of approximately 1) and n₂ is the refractive index of the second medium (glass, with a refractive index of 1.5).\n\nTo find the Brewster angle, we can use the inverse tangent function:\n\nθ_B = arctan(n₂/n₁)\n\nθ_B = arctan(1.5/1)\n\nθ_B = arctan(1.5)\n\nθ_B ≈ 56.31 degrees\n\nSo, the angle of incidence of unpolarized light onto a glass surface with a refractive index of 1.5 to achieve maximum polarization is approximately 56.31 degrees."
+}

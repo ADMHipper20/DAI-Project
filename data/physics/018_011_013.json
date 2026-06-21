@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "High-energy cosmic neutrinos",
+    "message_1": "What is the average energy of cosmic neutrinos detected by the IceCube observatory in Antarctica?",
+    "message_2": "The IceCube Neutrino Observatory in Antarctica is designed to detect high-energy neutrinos from cosmic sources. The energy of cosmic neutrinos detected by IceCube spans a wide range, from about 10 TeV (teraelectronvolts) to several PeV (petaelectronvolts). \n\nHowever, the average energy of cosmic neutrinos detected by IceCube is not a fixed value, as it depends on the specific sample of neutrinos being considered and the time period of observation. To determine an average energy, one would need to analyze the data from IceCube, taking into account the energy distribution of the detected neutrinos and the number of neutrinos detected in each energy range.\n\nIn general, the average energy of cosmic neutrinos detected by IceCube is likely to be in the range of hundreds of TeV to a few PeV. However, it is important to note that this value can vary depending on the specific dataset being analyzed."
+}

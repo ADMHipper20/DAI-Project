@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "A laser beam with a wavelength of 532 nm is incident on a narrow slit of width 50 micrometers. What is the angle at which the first minimum is observed on the screen located 2 meters away from the slit?",
+    "message_2": "To find the angle at which the first minimum is observed, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angle of the minimum, m is the order of the minimum (m = 1 for the first minimum), λ is the wavelength of the laser beam, and a is the width of the slit.\n\nFirst, we need to convert the given values to meters:\n\nλ = 532 nm = 532 * 10^(-9) m\na = 50 μm = 50 * 10^(-6) m\n\nNow, we can plug these values into the formula:\n\nsin(θ) = (1 * 532 * 10^(-9)) / (50 * 10^(-6))\n\nsin(θ) = 1.064 * 10^(-5)\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(1.064 * 10^(-5))\n\nθ ≈ 6.08 * 10^(-4) radians\n\nTo convert radians to degrees, we can use the following conversion factor:\n\n1 radian ≈ 57.296 degrees\n\nθ ≈ 6.08 * 10^(-4) * 57.296\n\nθ ≈ 0.0348 degrees\n\nSo, the angle at which the first minimum is observed on the screen is approximately 0.0348 degrees."
+}

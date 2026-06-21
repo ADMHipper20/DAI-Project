@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying motor",
+    "message_1": "A current-carrying motor has a wire of length 20 cm carrying a current of 5 A. Determine the magnitude of the magnetic field at a point 10 cm away from the wire.",
+    "message_2": "To determine the magnitude of the magnetic field at a point 10 cm away from the wire, we can use the formula for the magnetic field due to a straight current-carrying wire, which is given by:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current in the wire, and r is the distance from the wire.\n\nIn this case, I = 5 A and r = 10 cm = 0.1 m. Plugging these values into the formula, we get:\n\nB = (4π × 10^(-7) Tm/A * 5 A) / (2 * π * 0.1 m)\n\nThe π in the numerator and denominator cancels out:\n\nB = (4 × 10^(-7) Tm * 5 A) / (2 * 0.1 m)\n\nNow, we can simplify the expression:\n\nB = (20 × 10^(-7) T) / 0.2 m\n\nB = (2 × 10^(-6) T) / 0.02 m\n\nB = 10^(-4) T\n\nSo, the magnitude of the magnetic field at a point 10 cm away from the wire is 10^(-4) T or 100 μT."
+}

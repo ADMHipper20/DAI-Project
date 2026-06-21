@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic wave Doppler effect",
+    "message_1": "A spaceship moves towards a planet at a speed of 0.9c. The planet emits a signal of frequency 5 GHz. If the spaceship has a detector that measures the frequency of the signal as it approaches, what is the frequency observed by the spaceship's detector? (Assuming that the spaceships is moving directly towards the planet and there are no other external influences on the signal)",
+    "message_2": "To solve this problem, we can use the relativistic Doppler effect formula, which accounts for the time dilation and length contraction effects due to the relative motion between the spaceship and the planet. The formula is:\n\nf_observed = f_emitted * sqrt((1 + v/c) / (1 - v/c))\n\nwhere:\n- f_observed is the frequency observed by the spaceship's detector\n- f_emitted is the frequency of the signal emitted by the planet (5 GHz)\n- v is the relative velocity between the spaceship and the planet (0.9c)\n- c is the speed of light\n\nPlugging in the values:\n\nf_observed = 5 GHz * sqrt((1 + 0.9) / (1 - 0.9))\n\nf_observed = 5 GHz * sqrt(1.9 / 0.1)\n\nf_observed = 5 GHz * sqrt(19)\n\nf_observed ≈ 5 GHz * 4.36\n\nf_observed ≈ 21.8 GHz\n\nSo, the frequency observed by the spaceship's detector as it approaches the planet is approximately 21.8 GHz."
+}

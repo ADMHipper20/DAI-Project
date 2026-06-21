@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of vapor pressure of a substance",
+    "message_1": "What is the vapor pressure of water at a temperature of 100°C, assuming standard atmospheric pressure?",
+    "message_2": "At 100°C (373.15 K), the vapor pressure of water is equal to the standard atmospheric pressure because this is the boiling point of water at sea level. The standard atmospheric pressure is approximately 101.325 kPa (kiloPascals) or 760 mmHg (millimeters of mercury). Therefore, the vapor pressure of water at 100°C is approximately 101.325 kPa or 760 mmHg."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the latent heat of vaporization of water at a pressure of 1 atmosphere and temperature of 100 degrees Celsius?",
+    "message_2": "The latent heat of vaporization of water is the amount of heat required to convert 1 kg of water from the liquid phase to the vapor phase at a constant temperature and pressure. At a pressure of 1 atmosphere (101.3 kPa) and a temperature of 100 degrees Celsius, the latent heat of vaporization of water is approximately 2,260 kJ/kg (kilojoules per kilogram). This value can vary slightly depending on the reference source, but it is generally accepted as the standard value for these conditions."
+}

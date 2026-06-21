@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic Doppler effect",
+    "message_1": "A spaceship is traveling away from Earth at a speed of 0.6c. A radio signal with a frequency of 5 MHz is transmitted from Earth towards the spaceship. What is the frequency of the radio signal received by an astronaut on the spaceship? (Assuming the speed of light is 3.00 × 10^8 m/s)",
+    "message_2": "To solve this problem, we will use the Doppler effect formula for electromagnetic waves:\n\nf' = f * (c + v_r) / (c + v_s)\n\nwhere:\nf' is the frequency of the radio signal received by the astronaut,\nf is the frequency of the radio signal transmitted from Earth (5 MHz),\nc is the speed of light (3.00 × 10^8 m/s),\nv_r is the speed of the receiver (spaceship) relative to the medium (0, as the spaceship is moving away from the source),\nv_s is the speed of the source (Earth) relative to the medium (0.6c, as the spaceship is moving away from Earth).\n\nPlugging in the values:\n\nf' = 5 MHz * (3.00 × 10^8 m/s + 0) / (3.00 × 10^8 m/s + 0.6 * 3.00 × 10^8 m/s)\n\nf' = 5 MHz * (3.00 × 10^8 m/s) / (1.6 * 3.00 × 10^8 m/s)\n\nf' = 5 MHz / 1.6\n\nf' ≈ 3.125 MHz\n\nSo, the frequency of the radio signal received by the astronaut on the spaceship is approximately 3.125 MHz."
+}

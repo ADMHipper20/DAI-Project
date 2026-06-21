@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Chromatic Aberration",
+    "message_1": "A parallel beam of light falls on a glass prism of angle 60°. The refractive index of the prism for red light is 1.524, and for violet light it is 1.539. The angle of deviation for red light is 40° and for violet light is 42°. What is the angular dispersion produced by the prism?",
+    "message_2": "The angular dispersion produced by the prism is the difference in the angle of deviation between the red and violet light. In this case, the angle of deviation for red light is 40°, and for violet light, it is 42°.\n\nAngular dispersion = Angle of deviation (violet) - Angle of deviation (red)\nAngular dispersion = 42° - 40°\nAngular dispersion = 2°\n\nThe angular dispersion produced by the prism is 2°."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of copper if it requires 4800 J of heat to raise the temperature of a 200 g copper block from 25°C to 75°C?",
+    "message_2": "To find the specific heat capacity of copper, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (in joules), m is the mass (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nQ = 4800 J\nm = 200 g\nΔT = 75°C - 25°C = 50°C\n\nWe need to find the specific heat capacity (c). Rearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nNow, we can plug in the given values:\n\nc = 4800 J / (200 g × 50°C)\nc = 4800 J / 10000 g°C\nc = 0.48 J/g°C\n\nSo, the specific heat capacity of copper is 0.48 J/g°C."
+}

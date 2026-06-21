@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "What is the angular position of the first minimum for a single slit of width 0.2 mm when illuminated with monochromatic light of wavelength 630 nm?",
+    "message_2": "To find the angular position of the first minimum for a single slit, we can use the formula for single-slit diffraction:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angular position of the minimum, m is the order of the minimum (m = 1 for the first minimum), λ is the wavelength of the light, and a is the width of the slit.\n\nGiven the width of the slit (a) is 0.2 mm or 0.0002 m, and the wavelength of the light (λ) is 630 nm or 630 * 10^(-9) m, we can find the angular position of the first minimum (m = 1):\n\nsin(θ) = (1 * 630 * 10^(-9)) / 0.0002\n\nsin(θ) = 3.15 * 10^(-6)\n\nNow, we can find the angle θ by taking the inverse sine (arcsin) of the result:\n\nθ = arcsin(3.15 * 10^(-6))\n\nθ ≈ 1.8 * 10^(-3) radians\n\nTo convert radians to degrees, we can use the following conversion factor:\n\n1 radian = 180°/π\n\nθ ≈ (1.8 * 10^(-3)) * (180°/π)\n\nθ ≈ 0.103°\n\nSo, the angular position of the first minimum for a single slit of width 0.2 mm when illuminated with monochromatic light of wavelength 630 nm is approximately 0.103°."
+}

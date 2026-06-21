@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Spherical Aberration",
+    "message_1": "An optical system contains a lens that has a diameter of 5 cm and a focal length of 10 cm. The lens is used to focus light from a distant object onto a screen. However, due to spherical aberration, a blurry image is formed instead of a sharp one. If the lens has a spherical aberration coefficient of 5 cm, what is the diameter of the blur spot formed on the screen?",
+    "message_2": "Spherical aberration occurs when light rays passing through the outer edges of a lens focus at a different point than the rays passing through the center of the lens. The spherical aberration coefficient (SAC) is a measure of the deviation of the focal points from the ideal focal point.\n\nTo find the diameter of the blur spot formed on the screen, we can use the following formula:\n\nBlur spot diameter = (Lens diameter)^3 * (SAC) / (8 * (Focal length)^2)\n\nPlugging in the given values:\n\nBlur spot diameter = (5 cm)^3 * (5 cm) / (8 * (10 cm)^2)\nBlur spot diameter = (125 cm^3) * (5 cm) / (8 * 100 cm^2)\nBlur spot diameter = 625 cm^4 / 800 cm^2\nBlur spot diameter = 0.78125 cm^2\n\nSo, the diameter of the blur spot formed on the screen is approximately 0.78 cm."
+}

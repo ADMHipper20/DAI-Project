@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Kerr metric and rotating black holes",
+    "message_1": "What is the relationship between the angular momentum of a rotating black hole and its event horizon, as described by the Kerr metric in General Relativity?",
+    "message_2": "In General Relativity, the Kerr metric describes the geometry of spacetime around a rotating black hole. The angular momentum (J) of the black hole is related to its event horizon through the parameter called \"spin\" or \"angular momentum per unit mass\" (a). The spin parameter is dimensionless and ranges from 0 (non-rotating, Schwarzschild black hole) to 1 (extremal, maximally rotating black hole).\n\nThe Kerr metric is given by:\n\nds² = -(1 - 2Mr/Σ)dt² + (Σ/Δ)dr² + Σdθ² + (r² + a² + 2Mra²sin²θ/Σ)sin²θdφ² - 4Mra sin²θ/Σ dt dφ\n\nwhere\nM is the mass of the black hole,\nr and θ are the Boyer-Lindquist coordinates,\nΣ = r² + a²cos²θ,\nΔ = r² - 2Mr + a²,\na = J/M is the spin parameter.\n\nThe event horizon of the black hole is located at the radius r_h, where the metric component g_rr becomes singular (Δ = 0). Solving for r_h, we get:\n\nr_h = M + sqrt(M² - a²)\n\nThe relationship between the angular momentum (J) and the event horizon (r_h) is thus given by the spin parameter (a) and the mass (M) of the black hole. The event horizon radius depends on both the mass and the angular momentum of the black hole, and it shrinks as the black hole spins faster (higher a)."
+}

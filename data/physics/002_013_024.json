@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of Carnot efficiency of a heat engine",
+    "message_1": "A Carnot engine operates between two reservoirs at temperatures of 400 K and 300 K. The engine absorbs 2000 J of energy from the hotter reservoir and rejects 1200 J of energy to the colder reservoir in one cycle. Calculate the Carnot efficiency of this engine.",
+    "message_2": "The Carnot efficiency is given by the formula:\n\nEfficiency = 1 - (Tc/Th)\n\nwhere Tc is the temperature of the colder reservoir and Th is the temperature of the hotter reservoir. In this case, Tc = 300 K and Th = 400 K.\n\nEfficiency = 1 - (300/400)\nEfficiency = 1 - 0.75\nEfficiency = 0.25\n\nThe Carnot efficiency of this engine is 25%."
+}

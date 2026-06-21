@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What is the distance between two slits in Young's Double Slit experiment if the distance between the central maximum and first-order maximum on the screen is 10 cm and the distance between the slits and the screen is 1.5 meters? (Assume the wavelength of light used is 600 nm)",
+    "message_2": "In Young's Double Slit experiment, the distance between the central maximum and the first-order maximum (m = 1) can be calculated using the formula:\n\ny = (m * λ * L) / d\n\nwhere:\ny = distance between the central maximum and first-order maximum (10 cm = 0.1 m)\nm = order of the maximum (1 for first-order maximum)\nλ = wavelength of light (600 nm = 6 * 10^-7 m)\nL = distance between the slits and the screen (1.5 m)\nd = distance between the two slits (which we need to find)\n\nRearranging the formula to solve for d, we get:\n\nd = (m * λ * L) / y\n\nNow, we can plug in the values:\n\nd = (1 * 6 * 10^-7 * 1.5) / 0.1\nd = (9 * 10^-7) / 0.1\nd = 9 * 10^-6\n\nSo, the distance between the two slits in Young's Double Slit experiment is 9 * 10^-6 meters, or 9 micrometers."
+}

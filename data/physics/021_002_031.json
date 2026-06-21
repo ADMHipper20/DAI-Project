@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Black holes",
+    "sub_topic": "The structure and properties of event horizons",
+    "message_1": "What is the mathematical equation for the radius of the event horizon of a black hole, given its mass and the gravitational constant?",
+    "message_2": "The radius of the event horizon of a black hole, also known as the Schwarzschild radius, can be calculated using the following equation:\n\nr_s = (2 * G * M) / c^2\n\nwhere:\nr_s is the Schwarzschild radius (radius of the event horizon),\nG is the gravitational constant (approximately 6.674 × 10^-11 m^3 kg^-1 s^-2),\nM is the mass of the black hole,\nc is the speed of light in a vacuum (approximately 2.998 × 10^8 m/s)."
+}

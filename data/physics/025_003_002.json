@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Biophysics",
+    "sub_topic": "Understanding the role of ion channels in nerve impulses.",
+    "message_1": "What is the electric potential difference required to open a voltage-gated sodium ion channel in a neuron, assuming the membrane potential is at rest (-70 mV) and the threshold potential for sodium ion channel activation is -55 mV?",
+    "message_2": "To calculate the electric potential difference required to open a voltage-gated sodium ion channel in a neuron, we need to find the difference between the threshold potential and the resting membrane potential.\n\nThreshold potential: -55 mV\nResting membrane potential: -70 mV\n\nElectric potential difference = Threshold potential - Resting membrane potential\nElectric potential difference = (-55 mV) - (-70 mV)\n\nElectric potential difference = 15 mV\n\nSo, the electric potential difference required to open a voltage-gated sodium ion channel in a neuron is 15 mV."
+}

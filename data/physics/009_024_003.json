@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarizers",
+    "message_1": "When unpolarized light passes through a polarizer, it gets polarized. Suppose that a polarizer is placed in front of an unpolarized light source, and the intensity of the source is 100 W/m². If the intensity of the light that passes through the polarizer is 50 W/m², what is the angle between the transmission axis of the polarizer and the direction of polarization of the incident light?",
+    "message_2": "When unpolarized light passes through a polarizer, the intensity of the transmitted light is given by Malus' law:\n\nI_transmitted = I_incident * cos²θ\n\nwhere I_transmitted is the intensity of the transmitted light, I_incident is the intensity of the incident light, and θ is the angle between the transmission axis of the polarizer and the direction of polarization of the incident light.\n\nIn this case, I_transmitted = 50 W/m², and I_incident = 100 W/m². We can solve for θ:\n\n50 W/m² = 100 W/m² * cos²θ\n\nDivide both sides by 100 W/m²:\n\n0.5 = cos²θ\n\nNow take the square root of both sides:\n\nsqrt(0.5) = cosθ\n\ncosθ = 1/sqrt(2)\n\nNow find the angle θ by taking the inverse cosine:\n\nθ = arccos(1/sqrt(2))\n\nθ ≈ 45°\n\nSo, the angle between the transmission axis of the polarizer and the direction of polarization of the incident light is approximately 45°."
+}

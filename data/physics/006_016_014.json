@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Calculation of the nuclear magnetic resonance (NMR) effect in atoms",
+    "message_1": "Calculate the nuclear magnetic resonance (NMR) effect in a helium-4 atom, which has a nuclear spin of 0.",
+    "message_2": "Nuclear magnetic resonance (NMR) is a phenomenon that occurs when atomic nuclei with non-zero nuclear spin are placed in an external magnetic field. The NMR effect is dependent on the nuclear spin of the atom, which is given by the quantum number I.\n\nFor helium-4, the nuclear spin quantum number (I) is 0. This means that helium-4 has no nuclear magnetic moment, as the magnetic moment (μ) is proportional to the nuclear spin:\n\nμ = γ * I\n\nwhere γ is the gyromagnetic ratio, which is a constant specific to each nucleus.\n\nSince the nuclear spin of helium-4 is 0, its magnetic moment will also be 0:\n\nμ = γ * 0 = 0\n\nAs a result, helium-4 will not experience any NMR effect, as there is no magnetic moment to interact with the external magnetic field."
+}

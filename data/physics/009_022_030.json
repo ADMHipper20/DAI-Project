@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Brewster's Law",
+    "message_1": "A physics student is asked to find the angle of incidence when the reflected and refracted rays are perpendicular to each other when light is passing from air to glass with an index of refraction of 1.5. Use Brewster's Law to answer the question.",
+    "message_2": "Brewster's Law states that the angle of incidence (θi) at which the reflected and refracted rays are perpendicular to each other can be found using the following formula:\n\ntan(θi) = n2/n1\n\nwhere n1 is the index of refraction of the first medium (air) and n2 is the index of refraction of the second medium (glass).\n\nIn this case, n1 = 1 (since the index of refraction of air is approximately 1) and n2 = 1.5 (given in the problem).\n\nUsing Brewster's Law:\n\ntan(θi) = 1.5/1\ntan(θi) = 1.5\n\nNow, we need to find the angle θi:\n\nθi = arctan(1.5)\n\nUsing a calculator, we find:\n\nθi ≈ 56.31°\n\nSo, the angle of incidence when the reflected and refracted rays are perpendicular to each other when light is passing from air to glass with an index of refraction of 1.5 is approximately 56.31°."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Biophysics",
+    "sub_topic": "Studying the mechanics of cell division and mitosis.",
+    "message_1": "What is the force required to accurately separate chromosomes during mitosis?",
+    "message_2": "The force required to accurately separate chromosomes during mitosis is not a fixed value, as it depends on various factors such as the type of cell, the number of chromosomes, and the specific conditions under which mitosis is occurring. However, some studies have estimated the force exerted by motor proteins, such as kinesins and dyneins, during chromosome separation to be in the range of 1-7 piconewtons (pN). This force is sufficient to move chromosomes along microtubules and ensure their proper segregation during mitosis."
+}

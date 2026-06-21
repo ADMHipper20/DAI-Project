@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a sample of iron weighing 200 grams that requires 500 Joules of energy to raise its temperature from 25°C to 50°C?",
+    "message_2": "To find the specific heat capacity (c) of the iron sample, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (in Joules), m is the mass of the sample (in grams), c is the specific heat capacity (in J/g°C), and ΔT is the change in temperature (in °C).\n\nWe are given the following information:\n\nQ = 500 J\nm = 200 g\nΔT = 50°C - 25°C = 25°C\n\nWe need to find c. Rearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nPlugging in the given values:\n\nc = 500 J / (200 g × 25°C)\nc = 500 J / 5000 g°C\nc = 0.1 J/g°C\n\nSo, the specific heat capacity of the iron sample is 0.1 J/g°C."
+}

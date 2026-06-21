@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying sheet",
+    "message_1": "A rectangular sheet of dimensions 0.5m x 1m carries a current of 4A uniformly distributed over it. What is the magnetic field at a point 2m away from the center of the sheet, aligned with its longer side? Use the formula for the magnetic field due to a current-carrying sheet to solve the problem.",
+    "message_2": "To find the magnetic field at a point 2m away from the center of the sheet, we can use the formula for the magnetic field due to a current-carrying sheet:\n\nB = (μ₀ * I) / (2 * π * d)\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current per unit length, and d is the distance from the sheet.\n\nFirst, we need to find the current per unit length. Since the current is uniformly distributed over the sheet, we can divide the total current (4A) by the length of the side it's aligned with (1m):\n\nI = 4A / 1m = 4 A/m\n\nNow we can plug in the values into the formula:\n\nB = (4π × 10^(-7) Tm/A * 4 A/m) / (2 * π * 2m)\n\nB = (16π × 10^(-7) Tm²) / (4πm)\n\nB = (4 × 10^(-7) Tm)\n\nThe magnetic field at a point 2m away from the center of the sheet, aligned with its longer side, is 4 × 10^(-7) T."
+}

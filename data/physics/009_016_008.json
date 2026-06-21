@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction",
+    "message_1": "What is the width of the central maximum of the diffraction pattern produced when monochromatic light of wavelength 600 nm passes through a single slit of width 0.02 mm and strikes a screen 2 m away?",
+    "message_2": "To find the width of the central maximum of the diffraction pattern, we can use the formula for the angular width of the central maximum in a single-slit diffraction pattern:\n\nθ = 2 * (λ / a)\n\nwhere θ is the angular width of the central maximum, λ is the wavelength of the light, and a is the width of the slit.\n\nFirst, we need to convert the given values to meters:\n\nλ = 600 nm = 600 * 10^(-9) m\na = 0.02 mm = 0.02 * 10^(-3) m\n\nNow, we can plug these values into the formula:\n\nθ = 2 * (600 * 10^(-9) m / 0.02 * 10^(-3) m)\nθ ≈ 0.06 rad\n\nNow that we have the angular width of the central maximum, we can find the actual width on the screen. Since the screen is 2 meters away, we can use the small angle approximation:\n\nWidth = L * θ\n\nwhere L is the distance between the slit and the screen.\n\nWidth = 2 m * 0.06 rad ≈ 0.12 m\n\nSo, the width of the central maximum of the diffraction pattern is approximately 0.12 meters or 12 cm."
+}

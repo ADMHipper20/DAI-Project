@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear astrophysics and stellar evolution",
+    "message_1": "What is the maximum mass that a white dwarf star can have before it collapses into a neutron star or a black hole, based on the principles of nuclear astrophysics and stellar evolution?",
+    "message_2": "The maximum mass that a white dwarf star can have before it collapses into a neutron star or a black hole is determined by the Chandrasekhar limit. The Chandrasekhar limit is the maximum mass that a white dwarf star can support against gravitational collapse through electron degeneracy pressure. This limit is approximately 1.4 solar masses (1.4 times the mass of our Sun).\n\nWhen a white dwarf's mass exceeds the Chandrasekhar limit, electron degeneracy pressure can no longer support the star against its own gravity, leading to a collapse. Depending on the specific conditions and composition of the star, this can result in a Type Ia supernova, the formation of a neutron star, or, in some cases, the formation of a black hole."
+}

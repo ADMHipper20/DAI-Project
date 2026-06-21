@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What is the distance between two slits in Young's Double Slit experiment if the distance between the screen and the slits is 1 meter and the second-order bright fringe is located at an angle of 30 degrees from the central maximum on the screen?",
+    "message_2": "In Young's Double Slit experiment, the condition for bright fringes is given by:\n\nd * sin(θ) = m * λ\n\nwhere d is the distance between the two slits, θ is the angle between the central maximum and the m-th order bright fringe, m is the order of the bright fringe, and λ is the wavelength of the light.\n\nWe are given the distance between the screen and the slits (L) as 1 meter, and the angle θ as 30 degrees. We are also given that the bright fringe is the second order (m = 2). However, we do not have the wavelength of the light (λ). To find the distance between the slits (d), we need the wavelength.\n\nIf you provide the wavelength, I can help you find the distance between the slits."
+}

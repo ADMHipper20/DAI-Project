@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying sphere",
+    "message_1": "A copper wire of radius 1 mm carries a current of 2 A. Determine the magnetic field at a radius of 2 cm from the center of the wire.",
+    "message_2": "To determine the magnetic field at a radius of 2 cm from the center of the wire, we can use Ampere's Law. Ampere's Law states that the closed line integral of the magnetic field (B) around a current-carrying wire is equal to the product of the permeability of free space (μ₀) and the enclosed current (I).\n\nMathematically, it is represented as:\n\n∮B⋅dl = μ₀I\n\nFor a long straight wire, the magnetic field (B) is in the form of concentric circles around the wire, and its magnitude is given by:\n\nB = (μ₀I) / (2πr)\n\nwhere:\n- B is the magnetic field\n- μ₀ is the permeability of free space (4π × 10^(-7) Tm/A)\n- I is the current (2 A)\n- r is the distance from the center of the wire (2 cm = 0.02 m)\n\nNow, we can plug in the values and calculate the magnetic field:\n\nB = (4π × 10^(-7) Tm/A × 2 A) / (2π × 0.02 m)\n\nB = (8π × 10^(-7) Tm) / 0.02 m\n\nB ≈ 1.256 × 10^(-5) T\n\nSo, the magnetic field at a radius of 2 cm from the center of the copper wire is approximately 1.256 × 10^(-5) Tesla."
+}

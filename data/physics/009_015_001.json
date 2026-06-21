@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Spherical Aberration",
+    "message_1": "A convex lens with a focal length of 10 cm has an aperture diameter of 5 cm. What is the maximum allowable spherical aberration for this lens if it is to operate at its diffraction limit for visible light of wavelength 500 nm?",
+    "message_2": "To determine the maximum allowable spherical aberration for the lens to operate at its diffraction limit, we can use the Rayleigh criterion. The Rayleigh criterion states that two point sources can be resolved if the central maximum of the diffraction pattern of one source falls on the first minimum of the other source's diffraction pattern.\n\nThe angular resolution (θ) can be calculated using the Rayleigh criterion formula:\n\nθ = 1.22 * (λ / D)\n\nwhere λ is the wavelength of the light (500 nm or 5 * 10^(-7) m) and D is the aperture diameter (5 cm or 0.05 m).\n\nθ = 1.22 * (5 * 10^(-7) m / 0.05 m)\nθ ≈ 1.22 * 10^(-5) radians\n\nNow, we need to convert the angular resolution to a linear distance at the focal plane. We can do this using the small-angle approximation formula:\n\nΔx = f * θ\n\nwhere Δx is the linear distance at the focal plane, f is the focal length (10 cm or 0.1 m), and θ is the angular resolution.\n\nΔx = 0.1 m * 1.22 * 10^(-5) radians\nΔx ≈ 1.22 * 10^(-6) m\n\nThe maximum allowable spherical aberration for the lens to operate at its diffraction limit for visible light of wavelength 500 nm is approximately 1.22 * 10^(-6) meters or 1.22 micrometers."
+}

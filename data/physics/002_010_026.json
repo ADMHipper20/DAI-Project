@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the latent heat of vaporization of water at room temperature, given that the initial temperature of the water sample is 25°C, and it is heated until it starts boiling at 100°C, keeping the pressure constant at atmospheric pressure?",
+    "message_2": "The latent heat of vaporization of water is a property that is independent of the initial temperature of the water sample. It is the amount of energy required to change 1 kg of water from the liquid phase to the vapor phase at a constant temperature and pressure (in this case, at the boiling point of 100°C and atmospheric pressure).\n\nThe latent heat of vaporization of water at 100°C and atmospheric pressure is approximately 2.26 x 10^6 J/kg."
+}

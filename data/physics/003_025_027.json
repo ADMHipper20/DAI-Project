@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying resistor",
+    "message_1": "A 10 cm long wire of a resistance of 2 ohms carries a current of 3 A. Determine the magnetic field strength at a distance of 5 cm from the wire.",
+    "message_2": "To determine the magnetic field strength at a distance of 5 cm from the wire, we can use the Biot-Savart Law or Ampere's Law. However, for a straight wire, it's more convenient to use Ampere's Law. The formula for the magnetic field strength (B) around a straight wire carrying a current (I) at a distance (r) from the wire is given by:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere μ₀ is the permeability of free space, which is approximately 4π × 10^(-7) T·m/A.\n\nGiven the current I = 3 A and the distance r = 5 cm = 0.05 m, we can calculate the magnetic field strength:\n\nB = (4π × 10^(-7) T·m/A * 3 A) / (2 * π * 0.05 m)\n\nB = (12π × 10^(-7) T·m) / (0.1 m)\n\nB = 120π × 10^(-7) T\n\nB ≈ 3.77 × 10^(-6) T\n\nSo, the magnetic field strength at a distance of 5 cm from the wire is approximately 3.77 × 10^(-6) Tesla."
+}

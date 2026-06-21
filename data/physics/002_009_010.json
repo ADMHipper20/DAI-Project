@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "Calculate the latent heat of fusion for a substance with a mass of 500g that requires 16,500 Joules of energy to change from a solid to a liquid state.",
+    "message_2": "The latent heat of fusion (L) is the amount of energy required to change a substance from a solid to a liquid state without changing its temperature. It can be calculated using the formula:\n\nL = Q / m\n\nwhere L is the latent heat of fusion, Q is the amount of energy required (in Joules), and m is the mass of the substance (in grams).\n\nIn this case, we are given the mass (m) as 500g and the amount of energy required (Q) as 16,500 Joules. Plugging these values into the formula, we get:\n\nL = 16,500 J / 500 g\n\nL = 33 J/g\n\nSo, the latent heat of fusion for the substance is 33 Joules per gram."
+}

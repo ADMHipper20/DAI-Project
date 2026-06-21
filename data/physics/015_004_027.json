@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Gravitational waves",
+    "sub_topic": "Estimating the energy emitted in gravitational waves by a supernova explosion.",
+    "message_1": "What is the minimum distance from Earth that a supernova explosion must occur to allow us to detect gravitational waves emitted by it, and how much energy is typically emitted in those waves?",
+    "message_2": "The detection of gravitational waves from a supernova depends on the sensitivity of the detectors we have. Currently, the most sensitive detectors are LIGO (Laser Interferometer Gravitational-Wave Observatory) and Virgo. These detectors can detect gravitational waves from supernovae up to a distance of around 50 Megaparsecs (Mpc) or about 163 million light-years away. This distance may increase with future improvements in detector sensitivity.\n\nAs for the energy emitted in gravitational waves during a supernova, it depends on various factors such as the mass and rotation of the collapsing star. However, a rough estimate is that around 10^(-4) to 10^(-2) times the total energy released in the supernova explosion is emitted in the form of gravitational waves. Since a typical supernova releases about 10^44 Joules of energy, the energy emitted in gravitational waves would be in the range of 10^40 to 10^42 Joules. Keep in mind that these values are approximate and can vary depending on the specific characteristics of the supernova."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear structure and properties of nuclei",
+    "message_1": "Question: What is the proton and neutron composition of a carbon-14 nucleus, and how many energy levels does it have?",
+    "message_2": "A carbon-14 nucleus contains 6 protons and 8 neutrons. The number of protons determines the element, and since carbon has an atomic number of 6, there are 6 protons in its nucleus. Carbon-14 is an isotope of carbon, which means it has a different number of neutrons than the most common form of carbon (carbon-12). To find the number of neutrons, subtract the atomic number (number of protons) from the mass number (14): 14 - 6 = 8 neutrons.\n\nAs for the energy levels, they are determined by the arrangement of electrons around the nucleus. In a neutral carbon-14 atom, there are 6 electrons (equal to the number of protons). The electrons fill the energy levels according to the Aufbau principle. The first energy level can hold up to 2 electrons, and the second energy level can hold up to 8 electrons. In the case of carbon-14, the electron configuration is 1s² 2s² 2p², which means there are 2 electrons in the first energy level and 4 electrons in the second energy level. So, a carbon-14 atom has 2 energy levels."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of aluminum when 200 g of it is heated from 25°C to 100°C using 1500 J of energy?",
+    "message_2": "To find the specific heat capacity (c) of aluminum, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (1500 J), m is the mass of the aluminum (200 g), c is the specific heat capacity, and ΔT is the change in temperature (100°C - 25°C).\n\nFirst, let's find the change in temperature (ΔT):\n\nΔT = 100°C - 25°C = 75°C\n\nNow, we can rearrange the formula to solve for the specific heat capacity (c):\n\nc = Q / (m * ΔT)\n\nPlugging in the values:\n\nc = 1500 J / (200 g * 75°C)\n\nc = 1500 J / 15000 g°C\n\nc = 0.1 J/g°C\n\nThe specific heat capacity of aluminum in this case is 0.1 J/g°C."
+}

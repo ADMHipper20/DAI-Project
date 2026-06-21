@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying inductor",
+    "message_1": "A current of 2 A flows through a circular wire of radius 10 cm. Find the magnetic field at a point located 15 cm away from the center of the wire on the axis passing through it.",
+    "message_2": "To find the magnetic field at a point located on the axis passing through the center of the circular wire, we can use the formula for the magnetic field due to a circular loop of current:\n\nB = (μ₀ * I * R²) / (2 * (R² + x²)^(3/2))\n\nwhere:\nB is the magnetic field\nμ₀ is the permeability of free space (4π × 10^(-7) Tm/A)\nI is the current (2 A)\nR is the radius of the circular wire (0.1 m)\nx is the distance from the center of the wire to the point where we want to find the magnetic field (0.15 m)\n\nPlugging in the values, we get:\n\nB = (4π × 10^(-7) Tm/A * 2 A * (0.1 m)²) / (2 * ((0.1 m)² + (0.15 m)²)^(3/2))\n\nB = (8π × 10^(-7) Tm * 0.01 m²) / (2 * (0.01 m² + 0.0225 m²)^(3/2))\n\nB = (8π × 10^(-7) Tm * 0.01 m²) / (2 * (0.0325 m²)^(3/2))\n\nB = (8π × 10^(-7) Tm * 0.01 m²) / (2 * 0.0325 m³)\n\nB ≈ 1.22 × 10^(-5) T\n\nSo, the magnetic field at a point located 15 cm away from the center of the wire on the axis passing through it is approximately 1.22 × 10^(-5) T (Tesla)."
+}

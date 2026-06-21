@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic particle trajectories",
+    "message_1": "A particle is moving in a straight line with a velocity of 0.9c. What is the trajectory of the particle as observed from a stationary observer?",
+    "message_2": "Since the particle is moving in a straight line with a velocity of 0.9c (where c is the speed of light), its trajectory as observed from a stationary observer will also be a straight line. The particle's motion will be along the same direction as its velocity vector, and the observer will see the particle moving at a speed of 0.9c in that direction."
+}

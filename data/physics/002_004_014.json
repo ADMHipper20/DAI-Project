@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of enthalpy change in a reaction",
+    "message_1": "What is the enthalpy change in the reaction between nitrogen gas and hydrogen gas to form ammonia at standard conditions given the following balanced chemical equation: N2(g) + 3H2(g) → 2NH3(g)?",
+    "message_2": "To calculate the enthalpy change (ΔH) for the reaction, we need to know the standard enthalpies of formation (ΔHf°) for the reactants and products involved in the reaction. The standard enthalpy of formation is the enthalpy change when 1 mole of a substance is formed from its constituent elements in their standard states at 298 K and 1 atm pressure.\n\nThe standard enthalpies of formation for the substances involved in the reaction are as follows:\n\nΔHf° (N2) = 0 kJ/mol (since it is an element in its standard state)\nΔHf° (H2) = 0 kJ/mol (since it is an element in its standard state)\nΔHf° (NH3) = -45.9 kJ/mol\n\nNow, we can use the following equation to calculate the enthalpy change for the reaction:\n\nΔH = Σ [ΔHf° (products)] - Σ [ΔHf° (reactants)]\n\nFor the given balanced chemical equation, N2(g) + 3H2(g) → 2NH3(g), we have:\n\nΔH = [2 × ΔHf° (NH3)] - [1 × ΔHf° (N2) + 3 × ΔHf° (H2)]\n\nΔH = [2 × (-45.9 kJ/mol)] - [1 × 0 kJ/mol + 3 × 0 kJ/mol]\n\nΔH = (-91.8 kJ/mol) - 0\n\nΔH = -91.8 kJ/mol\n\nThe enthalpy change for the reaction between nitrogen gas and hydrogen gas to form ammonia at standard conditions is -91.8 kJ/mol."
+}

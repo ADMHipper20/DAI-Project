@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a straight conductor",
+    "message_1": "A long straight wire carries a current of 2 A. Determine the magnetic field strength at a point located 4 cm away from the wire.",
+    "message_2": "To determine the magnetic field strength at a point located 4 cm away from the wire, we can use Ampere's Law, which is given by:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere B is the magnetic field strength, μ₀ is the permeability of free space (4π × 10^(-7) T·m/A), I is the current in the wire (2 A), and r is the distance from the wire (4 cm = 0.04 m).\n\nPlugging in the values, we get:\n\nB = (4π × 10^(-7) T·m/A * 2 A) / (2 * π * 0.04 m)\n\nThe π in the numerator and denominator cancels out:\n\nB = (4 × 10^(-7) T·m/A * 2 A) / (2 * 0.04 m)\n\nNow, simplifying the expression:\n\nB = (8 × 10^(-7) T·m) / 0.08 m\n\nB = 10^(-5) T\n\nSo, the magnetic field strength at a point located 4 cm away from the wire is 10^(-5) Tesla."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the amount of energy required in joules to vaporize 50 grams of water at 100°C? The specific latent heat of vaporization of water is 2.26 ×10^6 J/kg.",
+    "message_2": "To calculate the energy required to vaporize the water, we can use the formula:\n\nEnergy (Q) = mass (m) × specific latent heat of vaporization (L_v)\n\nGiven:\nmass (m) = 50 grams = 0.05 kg (since 1 kg = 1000 grams)\nspecific latent heat of vaporization (L_v) = 2.26 × 10^6 J/kg\n\nNow, we can plug in the values into the formula:\n\nQ = 0.05 kg × 2.26 × 10^6 J/kg\n\nQ = 1.13 × 10^5 J\n\nTherefore, the amount of energy required to vaporize 50 grams of water at 100°C is 1.13 × 10^5 Joules."
+}

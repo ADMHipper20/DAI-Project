@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Cosmology",
+    "sub_topic": "The study of cosmic rays and their effects on human health",
+    "message_1": "What is the maximum dosage of cosmic radiation that an astronaut can be exposed to during a long-term space mission without experiencing any harmful effects on their health?",
+    "message_2": "The maximum dosage of cosmic radiation that an astronaut can be exposed to during a long-term space mission without experiencing harmful effects on their health is generally measured in units called millisieverts (mSv). According to NASA, the current limit for astronauts is set at 1000 mSv (1 sievert) of exposure over their entire career. This limit is based on the increased risk of cancer due to radiation exposure.\n\nFor context, astronauts on the International Space Station (ISS) receive an average of 150-200 mSv per year. During a long-term space mission, such as a mission to Mars, astronauts could be exposed to higher levels of cosmic radiation due to the lack of Earth's protective magnetic field and atmosphere. Therefore, radiation shielding and protective measures are essential to minimize the exposure and maintain the astronaut's health during such missions."
+}

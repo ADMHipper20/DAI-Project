@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a brick if it takes 1250 J of energy to heat up a 2 kg brick from 25°C to 50°C?",
+    "message_2": "To find the specific heat capacity of the brick, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy (1250 J), m is the mass of the brick (2 kg), c is the specific heat capacity, and ΔT is the change in temperature (50°C - 25°C = 25°C).\n\nWe need to find the value of c, so we can rearrange the formula:\n\nc = Q / (mΔT)\n\nNow, we can plug in the values:\n\nc = 1250 J / (2 kg × 25°C)\nc = 1250 J / 50 kg°C\nc = 25 J/(kg°C)\n\nSo, the specific heat capacity of the brick is 25 J/(kg°C)."
+}

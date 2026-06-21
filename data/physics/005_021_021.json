@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic optics",
+    "message_1": "A student observes a moving light source with a frequency of 5.0 x 10^14 Hz moving towards them with a velocity of 0.6c. Calculate the observed frequency of light when the student is stationary.",
+    "message_2": "To calculate the observed frequency of light when the student is stationary, we can use the relativistic Doppler effect formula:\n\nf_observed = f_source * sqrt((1 + v/c) / (1 - v/c))\n\nwhere:\nf_observed is the observed frequency,\nf_source is the source frequency (5.0 x 10^14 Hz),\nv is the velocity of the light source relative to the observer (0.6c),\nc is the speed of light (approximately 3.0 x 10^8 m/s).\n\nPlugging in the values, we get:\n\nf_observed = (5.0 x 10^14 Hz) * sqrt((1 + 0.6) / (1 - 0.6))\n\nf_observed = (5.0 x 10^14 Hz) * sqrt(1.6 / 0.4)\n\nf_observed = (5.0 x 10^14 Hz) * sqrt(4)\n\nf_observed = (5.0 x 10^14 Hz) * 2\n\nf_observed = 10.0 x 10^14 Hz\n\nSo, the observed frequency of light when the student is stationary is 10.0 x 10^14 Hz."
+}

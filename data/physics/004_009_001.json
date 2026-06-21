@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Kerr metric and rotating black holes",
+    "message_1": "What is the maximum possible rotational speed of a black hole before it disintegrates, according to the Kerr metric?",
+    "message_2": "The maximum possible rotational speed of a black hole before it disintegrates, according to the Kerr metric, is when its angular momentum (J) reaches the maximum value allowed for a given mass (M). This occurs when the black hole's dimensionless spin parameter (a*) reaches its maximum value of 1.\n\nThe dimensionless spin parameter is defined as:\n\na* = J / (G * M^2 / c)\n\nwhere J is the angular momentum, G is the gravitational constant, M is the mass of the black hole, and c is the speed of light.\n\nWhen a* = 1, the black hole is said to be an extremal Kerr black hole, spinning at its maximum possible rate. At this point, the event horizon and the inner Cauchy horizon merge, and any further increase in angular momentum would cause the black hole to disintegrate.\n\nIt is important to note that this is a theoretical limit, and it is not clear whether extremal Kerr black holes can actually exist in nature. Observations of astrophysical black holes suggest that their spin parameters are typically less than 1, with the fastest-spinning black holes having spin parameters around 0.9."
+}

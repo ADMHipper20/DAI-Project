@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "Calculate the latent heat of fusion of a substance if 100 grams of it requires 1800 Joules of heat to melt completely. Assume that the substance remains at a constant temperature during the melting process.",
+    "message_2": "The latent heat of fusion (L) is the amount of heat required to change a unit mass of a substance from solid to liquid at its melting point without changing its temperature. It can be calculated using the formula:\n\nL = Q / m\n\nwhere L is the latent heat of fusion, Q is the heat absorbed (in Joules), and m is the mass of the substance (in grams).\n\nIn this problem, we are given the mass (m) of the substance as 100 grams and the heat absorbed (Q) as 1800 Joules. We can now plug these values into the formula to find the latent heat of fusion (L):\n\nL = Q / m\nL = 1800 J / 100 g\nL = 18 J/g\n\nThe latent heat of fusion of the substance is 18 Joules per gram."
+}

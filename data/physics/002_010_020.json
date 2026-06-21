@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "What is the amount of heat required to vaporize 2 kg of water at its boiling point of 100°C, given that the latent heat of vaporization of water is 2257 kJ/kg?",
+    "message_2": "To find the amount of heat required to vaporize 2 kg of water at its boiling point, we can use the formula:\n\nQ = m * L\n\nwhere Q is the heat required, m is the mass of water, and L is the latent heat of vaporization.\n\nGiven that the mass of water (m) is 2 kg and the latent heat of vaporization (L) is 2257 kJ/kg, we can plug these values into the formula:\n\nQ = 2 kg * 2257 kJ/kg\n\nQ = 4514 kJ\n\nTherefore, the amount of heat required to vaporize 2 kg of water at its boiling point of 100°C is 4514 kJ."
+}

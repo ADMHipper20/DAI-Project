@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of internal energy of a system",
+    "message_1": "A 400 g aluminum block is initially at a temperature of 20°C. It is heated until its temperature rises to 50°C. Determine the change in internal energy of the aluminum block assuming no phase change occurs. The specific heat capacity of aluminum is 0.91 J/g°C.",
+    "message_2": "To determine the change in internal energy of the aluminum block, we can use the formula:\n\nΔE = mcΔT\n\nwhere ΔE is the change in internal energy, m is the mass of the aluminum block, c is the specific heat capacity of aluminum, and ΔT is the change in temperature.\n\nGiven:\nm = 400 g\nc = 0.91 J/g°C\nInitial temperature (T1) = 20°C\nFinal temperature (T2) = 50°C\n\nFirst, we need to find the change in temperature (ΔT):\n\nΔT = T2 - T1\nΔT = 50°C - 20°C\nΔT = 30°C\n\nNow, we can calculate the change in internal energy (ΔE):\n\nΔE = mcΔT\nΔE = (400 g)(0.91 J/g°C)(30°C)\n\nΔE = 10920 J\n\nTherefore, the change in internal energy of the aluminum block is 10,920 Joules."
+}

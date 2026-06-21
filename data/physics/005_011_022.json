@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "A proton is accelerated to 0.8c. What is the increase in its mass according to the theory of special relativity?",
+    "message_2": "According to the theory of special relativity, the mass of an object increases as its velocity approaches the speed of light (c). This is described by the relativistic mass formula:\n\nm = m0 / sqrt(1 - (v^2 / c^2))\n\nwhere m is the relativistic mass, m0 is the rest mass of the object, v is its velocity, and c is the speed of light.\n\nFor a proton, the rest mass m0 is approximately 1.67 x 10^-27 kg. The given velocity is 0.8c, so we can plug in the values to find the relativistic mass:\n\nm = (1.67 x 10^-27 kg) / sqrt(1 - (0.8c)^2 / c^2)\n\nm = (1.67 x 10^-27 kg) / sqrt(1 - 0.64)\n\nm = (1.67 x 10^-27 kg) / sqrt(0.36)\n\nm = (1.67 x 10^-27 kg) / 0.6\n\nm ≈ 2.78 x 10^-27 kg\n\nNow, we can find the increase in mass by subtracting the rest mass from the relativistic mass:\n\nΔm = m - m0\n\nΔm = 2.78 x 10^-27 kg - 1.67 x 10^-27 kg\n\nΔm ≈ 1.11 x 10^-27 kg\n\nSo, the increase in mass of the proton when accelerated to 0.8c is approximately 1.11 x 10^-27 kg."
+}

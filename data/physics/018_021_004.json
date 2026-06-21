@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "Lepton flavor violation",
+    "message_1": "What is the probability of observing muon-to-electron conversion in a nucleus via the charged current interaction within the context of the Standard Model of particle physics and assuming lepton flavor is conserved?",
+    "message_2": "In the context of the Standard Model of particle physics and assuming lepton flavor is conserved, the probability of observing muon-to-electron conversion in a nucleus via the charged current interaction is effectively zero.\n\nThe reason for this is that lepton flavor conservation forbids such transitions. In the Standard Model, charged current interactions are mediated by W bosons, which couple to leptons and their corresponding neutrinos. Since the lepton flavor is conserved, a muon can only couple to a muon neutrino, and an electron can only couple to an electron neutrino. Therefore, a direct muon-to-electron conversion via charged current interaction is not allowed.\n\nHowever, if there were some new physics beyond the Standard Model that violates lepton flavor conservation, then such a process could be possible. Experiments searching for muon-to-electron conversion are actually conducted to probe for such new physics."
+}

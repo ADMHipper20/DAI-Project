@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Length contraction in a moving frame of reference",
+    "message_1": "A spaceship is traveling at 0.8c in a region of space where there are no external gravitational forces. The spaceship is 100 meters long as measured by an observer on Earth. What is the length of the spaceship as measured by an astronaut aboard the spaceship? (Assuming the spaceship's direction of travel is parallel to its length.)",
+    "message_2": "For an astronaut aboard the spaceship, they would be in the spaceship's rest frame. In this frame of reference, the spaceship is not moving, and therefore, there would be no length contraction. As a result, the length of the spaceship as measured by the astronaut aboard the spaceship would be the same as its proper length, which is 100 meters."
+}

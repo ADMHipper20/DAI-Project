@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of enthalpy change in a reaction",
+    "message_1": "What is the enthalpy change when 2 moles of hydrogen gas react with 1 mole of oxygen gas to produce 2 moles of water vapor? Given the molar enthalpy of formation of water as -285.8 kJ/mol and that of hydrogen and oxygen as 0 kJ/mol.",
+    "message_2": "To calculate the enthalpy change for the reaction, we can use the following equation:\n\nΔH = ΣnΔHf(products) - ΣnΔHf(reactants)\n\nwhere ΔH is the enthalpy change, n is the number of moles, and ΔHf is the molar enthalpy of formation.\n\nFor the given reaction:\n\n2 H₂(g) + O₂(g) → 2 H₂O(g)\n\nThe molar enthalpy of formation for the products is:\n\n2 moles of H₂O(g) × (-285.8 kJ/mol) = -571.6 kJ\n\nThe molar enthalpy of formation for the reactants is:\n\n2 moles of H₂(g) × 0 kJ/mol + 1 mole of O₂(g) × 0 kJ/mol = 0 kJ\n\nNow, we can calculate the enthalpy change:\n\nΔH = (-571.6 kJ) - (0 kJ) = -571.6 kJ\n\nThe enthalpy change for the reaction is -571.6 kJ."
+}

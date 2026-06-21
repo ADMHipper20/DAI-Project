@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of enthalpy change in a reaction",
+    "message_1": "What is the enthalpy change when 2 moles of methane (CH4) reacts with 4 moles of oxygen gas (O2) to produce 2 moles of carbon dioxide (CO2) and 4 moles of water (H2O)? The standard enthalpies of formation for CH4, CO2, and H2O are -74.8 kJ/mol, -393.5 kJ/mol, and -285.8 kJ/mol respectively.",
+    "message_2": "To calculate the enthalpy change for the reaction, we can use the following equation:\n\nΔH = ΣnΔHf(products) - ΣnΔHf(reactants)\n\nwhere ΔH is the enthalpy change, n is the number of moles, and ΔHf is the standard enthalpy of formation.\n\nFor the given reaction:\n\nCH4 + 2O2 → CO2 + 2H2O\n\nThe enthalpy change for the reaction is:\n\nΔH = [(2 moles CO2 × -393.5 kJ/mol CO2) + (4 moles H2O × -285.8 kJ/mol H2O)] - [(2 moles CH4 × -74.8 kJ/mol CH4) + (4 moles O2 × 0 kJ/mol O2)]\n\nNote that the standard enthalpy of formation for O2 is 0 kJ/mol since it is in its elemental form.\n\nΔH = [(2 × -393.5) + (4 × -285.8)] - [(2 × -74.8) + (4 × 0)]\n\nΔH = [-787 + (-1143.2)] - [-149.6]\n\nΔH = -1930.2 + 149.6\n\nΔH = -1780.6 kJ\n\nThe enthalpy change for the reaction is -1780.6 kJ."
+}

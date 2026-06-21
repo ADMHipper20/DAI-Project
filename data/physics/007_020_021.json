@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear radiation detection and measurement",
+    "message_1": "What is the efficiency of a gamma-ray detector if it detects 100 gamma-ray interactions for every 500 gamma-rays that hit the detector?",
+    "message_2": "The efficiency of a gamma-ray detector can be calculated using the following formula:\n\nEfficiency = (Number of detected gamma-ray interactions / Total number of gamma-rays that hit the detector) * 100\n\nIn this case, the detector detects 100 gamma-ray interactions out of 500 gamma-rays that hit the detector. So, the efficiency would be:\n\nEfficiency = (100 / 500) * 100 = 0.2 * 100 = 20%\n\nThe efficiency of the gamma-ray detector is 20%."
+}

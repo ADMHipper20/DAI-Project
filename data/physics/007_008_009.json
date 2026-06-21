@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear medicine and medical imaging",
+    "message_1": "A hospital has a nuclear imaging machine that emits gamma rays with an energy of 140 keV to diagnose bone fractures. The detector records an average of 10,000 counts per second when the machine is directed at a bone. What is the detection efficiency of the imaging machine?",
+    "message_2": "To calculate the detection efficiency of the imaging machine, we need to know the number of gamma rays emitted by the machine per second and the number of gamma rays detected by the detector per second.\n\nLet's assume the machine emits N gamma rays per second. The detector records 10,000 counts per second.\n\nDetection efficiency (η) is defined as the ratio of the number of gamma rays detected to the number of gamma rays emitted:\n\nη = (Number of gamma rays detected per second) / (Number of gamma rays emitted per second)\n\nUnfortunately, we don't have enough information to calculate the detection efficiency. We need to know the number of gamma rays emitted by the machine per second (N) to determine the efficiency."
+}

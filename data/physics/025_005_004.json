@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Biophysics",
+    "sub_topic": "Studying the behavior of DNA under mechanical stress.",
+    "message_1": "What is the maximum force that can be applied to a strand of DNA before it breaks under mechanical stress?",
+    "message_2": "The maximum force that can be applied to a strand of DNA before it breaks under mechanical stress is typically around 65 piconewtons (pN). This value can vary depending on the specific conditions and the type of DNA being studied. However, it is important to note that this value is an approximation, and the actual breaking force may be influenced by factors such as the presence of proteins, the local environment, and the rate at which the force is applied."
+}

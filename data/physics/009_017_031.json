@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "What is the angular position of the first minimum and maximum of the single slit diffraction pattern when light of wavelength 550 nm is passed through a slit of width 0.02 mm and viewed on a screen 1 meter away from the slit?",
+    "message_2": "To find the angular position of the first minimum and maximum of the single slit diffraction pattern, we can use the formula for the angular position of the minima in a single-slit diffraction pattern:\n\nθ_min = (m * λ) / a\n\nwhere:\nθ_min is the angular position of the minimum\nm is the order of the minimum (m = 1 for the first minimum)\nλ is the wavelength of the light (550 nm = 550 * 10^(-9) m)\na is the width of the slit (0.02 mm = 0.02 * 10^(-3) m)\n\nFor the first minimum (m = 1):\n\nθ_min = (1 * 550 * 10^(-9)) / (0.02 * 10^(-3))\nθ_min ≈ 2.75 * 10^(-5) radians\n\nTo convert radians to degrees:\n\nθ_min ≈ 2.75 * 10^(-5) * (180 / π) ≈ 0.001575 degrees\n\nNow, to find the angular position of the first maximum, we can use the fact that the maxima occur approximately halfway between the minima. So, the first maximum will be halfway between the first minimum (m = 1) and the central maximum (m = 0):\n\nθ_max ≈ (θ_min + 0) / 2\nθ_max ≈ 0.001575 / 2 ≈ 0.0007875 degrees\n\nSo, the angular position of the first minimum is approximately 0.001575 degrees, and the angular position of the first maximum is approximately 0.0007875 degrees."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of coefficient of performance of a heat pump",
+    "message_1": "A heat pump operates with an input power of 2000 W and a COP of 4.5. What is the rate of heat transfer from the cold reservoir to the hot reservoir?",
+    "message_2": "The Coefficient of Performance (COP) of a heat pump is defined as the ratio of the heat transferred to the hot reservoir (Q_hot) to the work input (W):\n\nCOP = Q_hot / W\n\nWe are given the COP as 4.5 and the input power (work done per unit time) as 2000 W. We can rearrange the equation to find the rate of heat transfer to the hot reservoir:\n\nQ_hot = COP * W\n\nQ_hot = 4.5 * 2000 W\n\nQ_hot = 9000 W\n\nSo, the rate of heat transfer from the cold reservoir to the hot reservoir is 9000 Watts."
+}

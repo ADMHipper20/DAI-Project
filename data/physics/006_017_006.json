@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the electron spin resonance (ESR) effect in atoms",
+    "message_1": "What is the electron spin resonance frequency for an atom containing one unpaired electron with a g-factor of 2.0023 in a 1 T external magnetic field?",
+    "message_2": "Electron spin resonance (ESR) frequency can be calculated using the following formula:\n\nf = g * μ_B * B / h\n\nwhere:\nf is the ESR frequency,\ng is the g-factor (dimensionless),\nμ_B is the Bohr magneton (9.274 × 10^-24 J/T),\nB is the external magnetic field (in Tesla, T),\nh is the Planck's constant (6.626 × 10^-34 J*s).\n\nGiven the g-factor (g = 2.0023) and the external magnetic field (B = 1 T), we can calculate the ESR frequency:\n\nf = 2.0023 * (9.274 × 10^-24 J/T) * 1 T / (6.626 × 10^-34 J*s)\n\nf ≈ 2.802 × 10^10 Hz\n\nThe electron spin resonance frequency for the atom with one unpaired electron and a g-factor of 2.0023 in a 1 T external magnetic field is approximately 28.02 GHz."
+}

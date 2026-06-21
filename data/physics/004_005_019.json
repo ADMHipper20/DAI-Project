@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The Einstein field equations and their solutions",
+    "message_1": "What is the solution to the Einstein field equations for a spherically symmetric, non-rotating mass distribution in empty space?",
+    "message_2": "The solution to the Einstein field equations for a spherically symmetric, non-rotating mass distribution in empty space is known as the Schwarzschild solution or the Schwarzschild metric. It was first derived by Karl Schwarzschild in 1916. The metric describes the spacetime geometry outside a spherically symmetric, non-rotating mass, such as a non-rotating planet, star, or black hole.\n\nThe Schwarzschild metric in spherical coordinates (t, r, θ, φ) is given by:\n\nds² = -(1 - 2GM/c²r) dt² + (1 - 2GM/c²r)⁻¹ dr² + r²(dθ² + sin²θ dφ²)\n\nwhere:\n- ds² is the spacetime interval\n- G is the gravitational constant\n- M is the mass of the object\n- c is the speed of light\n- t is the time coordinate\n- r is the radial coordinate\n- θ is the polar angle\n- φ is the azimuthal angle\n\nThe Schwarzschild metric is an exact solution to the Einstein field equations and is widely used in general relativity to study the properties of spherically symmetric, non-rotating massive objects, such as black holes and the gravitational effects around them."
+}

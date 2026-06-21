@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Single Slit Diffraction",
+    "message_1": "What is the angular position of the first minimum in the single slit diffraction pattern if the wavelength of the light used is 550 nm and the width of the slit is 0.1 mm?",
+    "message_2": "To find the angular position of the first minimum in a single slit diffraction pattern, we can use the formula:\n\nsin(θ) = (m * λ) / a\n\nwhere θ is the angular position of the minimum, m is the order of the minimum (m = 1 for the first minimum), λ is the wavelength of the light, and a is the width of the slit.\n\nGiven the wavelength λ = 550 nm = 550 * 10^(-9) m and the width of the slit a = 0.1 mm = 0.1 * 10^(-3) m, we can find the angular position of the first minimum (m = 1):\n\nsin(θ) = (1 * 550 * 10^(-9)) / (0.1 * 10^(-3))\nsin(θ) = 5.5 * 10^(-6)\n\nNow, we can find the angular position θ by taking the inverse sine (arcsin) of both sides:\n\nθ = arcsin(5.5 * 10^(-6))\n\nθ ≈ 3.14 * 10^(-3) radians\n\nTo convert radians to degrees, we can use the conversion factor (180°/π):\n\nθ ≈ (3.14 * 10^(-3)) * (180°/π) ≈ 0.18°\n\nSo, the angular position of the first minimum in the single slit diffraction pattern is approximately 0.18°."
+}

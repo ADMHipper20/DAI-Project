@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Diffraction Gratings",
+    "message_1": "A diffraction grating with 2000 lines per centimeter is illuminated with a beam of monochromatic light. If the first-order maximum is observed at an angle of 30 degrees, what is the wavelength of the light?",
+    "message_2": "To solve this problem, we can use the diffraction grating equation:\n\nn * λ = d * sin(θ)\n\nwhere n is the order of the maximum (in this case, n = 1 for the first-order maximum), λ is the wavelength of the light, d is the distance between the lines on the diffraction grating, and θ is the angle at which the maximum is observed.\n\nWe are given that there are 2000 lines per centimeter on the diffraction grating, so we can find the distance between the lines (d) as follows:\n\nd = 1 / (2000 lines/cm) = 1/2000 cm = 5 * 10^(-4) cm = 5 * 10^(-6) m\n\nNow we can plug the values into the diffraction grating equation:\n\n1 * λ = (5 * 10^(-6) m) * sin(30°)\n\nTo find the sine of 30 degrees, we can use a calculator or recall that sin(30°) = 1/2. So,\n\nλ = (5 * 10^(-6) m) * (1/2)\n\nλ = 2.5 * 10^(-6) m\n\nTherefore, the wavelength of the light is 2.5 * 10^(-6) meters or 2500 nm."
+}

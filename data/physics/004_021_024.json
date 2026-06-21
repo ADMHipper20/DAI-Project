@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "General relativity",
+    "sub_topic": "The gravitational collapse of stars",
+    "message_1": "What is the maximum mass of a neutron star that can avoid undergoing gravitational collapse and become a black hole according to General Relativity?",
+    "message_2": "The maximum mass of a neutron star that can avoid undergoing gravitational collapse and become a black hole according to General Relativity is known as the Tolman-Oppenheimer-Volkoff (TOV) limit. The exact value of the TOV limit depends on the equation of state of the neutron star's matter, which is still an area of active research in nuclear physics.\n\nHowever, current estimates place the TOV limit at around 2 to 2.5 solar masses (where 1 solar mass is the mass of our Sun, approximately 1.989 x 10^30 kg). If a neutron star exceeds this mass, it will undergo gravitational collapse and become a black hole."
+}

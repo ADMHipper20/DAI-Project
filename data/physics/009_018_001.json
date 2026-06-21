@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Double Slit Interference",
+    "message_1": "What is the distance between two adjacent bright fringes in a double-slit interference pattern if the distance between the slits is 0.2 mm and the wavelength of the light is 600 nm?",
+    "message_2": "To find the distance between two adjacent bright fringes in a double-slit interference pattern, we can use the formula:\n\nΔy = (λL) / d\n\nwhere Δy is the distance between two adjacent bright fringes, λ is the wavelength of the light, L is the distance from the double-slit to the screen, and d is the distance between the slits.\n\nHowever, you have not provided the distance L from the double-slit to the screen. Please provide this value so that I can calculate the distance between two adjacent bright fringes."
+}

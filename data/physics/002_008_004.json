@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of a copper block that requires 150 J of energy to raise its temperature by 30 degrees Celsius, given that the mass of the block is 500 grams?",
+    "message_2": "The specific heat capacity (c) of a substance can be calculated using the formula:\n\nQ = mcΔT\n\nwhere Q is the heat energy absorbed or released (in joules), m is the mass of the substance (in kilograms), c is the specific heat capacity (in J/kg·K), and ΔT is the change in temperature (in Kelvin or Celsius).\n\nIn this case, we are given the following information:\n\nQ = 150 J\nΔT = 30°C\nm = 500 g = 0.5 kg\n\nWe need to find the specific heat capacity (c) of the copper block. Rearranging the formula to solve for c, we get:\n\nc = Q / (mΔT)\n\nSubstituting the given values, we have:\n\nc = 150 J / (0.5 kg × 30°C)\nc = 150 J / 15 kg·°C\nc = 10 J/kg·°C\n\nThe specific heat capacity of the copper block is 10 J/kg·°C."
+}

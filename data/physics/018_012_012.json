@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "High-energy physics",
+    "sub_topic": "High-energy gamma-ray astronomy",
+    "message_1": "What is the largest energy gamma ray ever observed by astronomers, and what is the source of this high-energy gamma ray?",
+    "message_2": "The largest energy gamma ray ever observed by astronomers had an energy of about 1.4 peta-electronvolts (PeV), which is equivalent to 1.4 x 10^15 electronvolts (eV). This record-breaking gamma ray was detected by the High-Altitude Water Cherenkov (HAWC) Gamma-Ray Observatory in 2019.\n\nThe source of this high-energy gamma ray is a pulsar wind nebula called Markarian 421, which is a type of supernova remnant. Pulsar wind nebulae are created when a rapidly rotating neutron star, or pulsar, emits a strong wind of high-energy particles. These particles interact with the surrounding magnetic field and emit gamma rays. Markarian 421 is located about 407 million light-years away from Earth in the constellation Ursa Major."
+}

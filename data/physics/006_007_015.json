@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Study of the Franck-Hertz experiment",
+    "message_1": "A physics student needs to determine the minimum accelerating voltage required to cause mercury atoms to emit light of a specific wavelength, based on the data collected from the Franck-Hertz experiment.",
+    "message_2": "To determine the minimum accelerating voltage required to cause mercury atoms to emit light of a specific wavelength, we can use the following formula:\n\nE = eV\n\nwhere E is the energy of the emitted light, e is the elementary charge (1.6 x 10^-19 C), and V is the accelerating voltage.\n\nFirst, we need to find the energy of the emitted light (E) using the wavelength (λ) provided. We can do this using the Planck's equation:\n\nE = hf = (hc) / λ\n\nwhere h is the Planck's constant (6.63 x 10^-34 Js), c is the speed of light (3 x 10^8 m/s), and f is the frequency of the light.\n\nOnce we have the energy (E), we can find the minimum accelerating voltage (V) using the formula:\n\nV = E / e\n\nPlease provide the specific wavelength (λ) of the emitted light, and I can help you calculate the minimum accelerating voltage required."
+}

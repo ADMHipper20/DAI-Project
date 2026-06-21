@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Particle physics",
+    "sub_topic": "The measurement of the strong coupling constant",
+    "message_1": "What is the value of the strong coupling constant, αs, at a center-of-mass energy of 91.2 GeV, as measured in electron-positron annihilation experiments at the Large Electron-Positron (LEP) collider?",
+    "message_2": "The strong coupling constant, αs, is a measure of the strength of the strong nuclear force, which is responsible for binding quarks together to form protons, neutrons, and other particles. The value of αs depends on the energy scale at which it is measured, due to a phenomenon known as asymptotic freedom.\n\nAt the Large Electron-Positron (LEP) collider, the center-of-mass energy of 91.2 GeV corresponds to the mass of the Z boson. Measurements of αs at this energy scale have been performed using various experimental techniques, and the results have been combined to obtain a more precise value.\n\nThe Particle Data Group (PDG) provides a world-average value for αs at the Z boson mass scale (MZ = 91.2 GeV). The current PDG value for αs(MZ) is approximately 0.1181, with an uncertainty of ±0.0011.\n\nReference: M. Tanabashi et al. (Particle Data Group), Phys. Rev. D 98, 030001 (2018) and 2019 update."
+}

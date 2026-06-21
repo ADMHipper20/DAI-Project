@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the amount of heat required to completely melt 200 grams of ice at 0°C into water assuming the latent heat of fusion of ice is 334 J/g?",
+    "message_2": "To find the amount of heat required to completely melt 200 grams of ice at 0°C, we can use the formula:\n\nQ = m * Lf\n\nwhere Q is the amount of heat required, m is the mass of the ice, and Lf is the latent heat of fusion of ice.\n\nGiven:\nm = 200 grams\nLf = 334 J/g\n\nPlugging the values into the formula:\n\nQ = 200 g * 334 J/g\n\nQ = 66800 J\n\nSo, the amount of heat required to completely melt 200 grams of ice at 0°C into water is 66,800 Joules."
+}

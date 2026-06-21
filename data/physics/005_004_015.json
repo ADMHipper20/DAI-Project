@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic energy and momentum",
+    "message_1": "A tunnel of length 1 km is constructed on the equator of a rotating planet Earth with a radius of 6,378 km. A train travels through the tunnel at a speed of 0.9c. \n\nWhat is the total relativistic energy of the train in joules?",
+    "message_2": "To calculate the total relativistic energy of the train, we need to know its rest mass (m) and its velocity (v). We are given the velocity as 0.9c, where c is the speed of light (approximately 3 x 10^8 m/s). However, we do not have the mass of the train. Please provide the mass of the train to proceed with the calculation."
+}

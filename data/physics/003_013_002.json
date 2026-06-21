@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying ring",
+    "message_1": "A current-carrying ring has a radius of 5 cm and a current of 2 A. Determine the magnetic field at a point on the axial line of the ring, which is 10 cm away from the center of the ring.",
+    "message_2": "To determine the magnetic field at a point on the axial line of the ring, we can use the formula for the magnetic field due to a current-carrying loop:\n\nB = (μ₀ * I * R²) / (2 * (R² + x²)^(3/2))\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current, R is the radius of the ring, and x is the distance from the center of the ring along the axial line.\n\nGiven the values:\nR = 5 cm = 0.05 m\nI = 2 A\nx = 10 cm = 0.1 m\n\nPlugging these values into the formula:\n\nB = (4π × 10^(-7) Tm/A * 2 A * (0.05 m)²) / (2 * ((0.05 m)² + (0.1 m)²)^(3/2))\n\nB = (4π × 10^(-7) * 2 * 0.0025) / (2 * (0.0025 + 0.01)^(3/2))\n\nB = (8π × 10^(-7) * 0.0025) / (2 * (0.0125)^(3/2))\n\nB = (20π × 10^(-7)) / (2 * 0.0559016994)\n\nB ≈ 1.79 × 10^(-5) T\n\nSo, the magnetic field at a point on the axial line of the ring, which is 10 cm away from the center of the ring, is approximately 1.79 × 10^(-5) Tesla."
+}

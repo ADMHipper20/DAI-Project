@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying wire",
+    "message_1": "A copper wire of length 0.5 meters and radius 1 mm carries a current of 4 A. Determine the magnetic field at a distance of 2 cm from the center of the wire.",
+    "message_2": "To determine the magnetic field at a distance of 2 cm from the center of the wire, we can use Ampere's Law, which states that the closed line integral of the magnetic field (B) around a current-carrying wire is equal to the product of the permeability of free space (μ₀) and the enclosed current (I).\n\nMathematically, Ampere's Law is given by:\n\n∮ B • dl = μ₀ * I_enclosed\n\nFor a long straight wire, the magnetic field (B) is in the form of concentric circles around the wire, and its magnitude can be expressed as:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere:\n- B is the magnetic field\n- μ₀ is the permeability of free space (4π × 10^(-7) Tm/A)\n- I is the current in the wire (4 A)\n- r is the distance from the center of the wire (2 cm = 0.02 m)\n\nNow, we can plug in the values and calculate the magnetic field:\n\nB = (4π × 10^(-7) Tm/A * 4 A) / (2 * π * 0.02 m)\n\nB = (16π × 10^(-7) Tm/A) / (0.04π m)\n\nB = (4 × 10^(-7) Tm/A) * 100\n\nB = 4 × 10^(-5) T\n\nSo, the magnetic field at a distance of 2 cm from the center of the wire is 4 × 10^(-5) Tesla."
+}

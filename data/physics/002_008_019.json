@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of specific heat capacity of a substance",
+    "message_1": "What is the specific heat capacity of water in J/g°C if 500 J of heat is added to a 50 g sample of water, causing its temperature to rise from 25°C to 50°C?",
+    "message_2": "To find the specific heat capacity of water (c), we can use the formula:\n\nq = mcΔT\n\nwhere q is the heat added (500 J), m is the mass of the water sample (50 g), c is the specific heat capacity we want to find, and ΔT is the change in temperature (50°C - 25°C).\n\nFirst, let's find the change in temperature (ΔT):\n\nΔT = 50°C - 25°C = 25°C\n\nNow, we can rearrange the formula to solve for c:\n\nc = q / (m * ΔT)\n\nPlugging in the values:\n\nc = 500 J / (50 g * 25°C) = 500 J / 1250 g°C\n\nc = 0.4 J/g°C\n\nSo, the specific heat capacity of water in this case is 0.4 J/g°C."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Focal Length",
+    "message_1": "A concave mirror has a focal length of 10 cm. An object is placed 25 cm away from the mirror. What is the magnification of the image formed by the mirror?",
+    "message_2": "To find the magnification of the image formed by the concave mirror, we first need to determine the image distance using the mirror formula:\n\n1/f = 1/u + 1/v\n\nwhere f is the focal length, u is the object distance, and v is the image distance.\n\nGiven: f = 10 cm, u = -25 cm (object distance is negative for real objects in front of the mirror)\n\n1/10 = 1/(-25) + 1/v\n\nSolving for v:\n\n1/v = 1/10 + 1/25\n1/v = (5 + 2)/50\n1/v = 7/50\nv = 50/7 cm\n\nNow that we have the image distance, we can find the magnification (M) using the formula:\n\nM = -v/u\n\nM = -(50/7) / (-25)\nM = (50/7) / 25\nM = 50 / (7 * 25)\nM = 2 / 7\n\nThe magnification of the image formed by the mirror is 2/7 or approximately 0.286."
+}

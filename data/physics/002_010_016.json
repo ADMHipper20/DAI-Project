@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of vaporization of a substance",
+    "message_1": "Sure! Here's a question for the physics student to solve:\n\nWhat is the latent heat of vaporization of water if it takes 2260 J of energy to convert 1 gram of liquid water at 100°C to steam at 100°C? Provide your answer in J/g.",
+    "message_2": "The latent heat of vaporization (L_v) is the amount of energy required to convert 1 gram of a substance from the liquid phase to the gas phase without changing its temperature. In this case, we are given the energy (2260 J) required to convert 1 gram of liquid water at 100°C to steam at 100°C. \n\nSince we are given the energy required for 1 gram of water, the latent heat of vaporization (L_v) can be directly calculated as:\n\nL_v = Energy / Mass\nL_v = 2260 J / 1 g\n\nSo, the latent heat of vaporization of water is:\n\nL_v = 2260 J/g"
+}

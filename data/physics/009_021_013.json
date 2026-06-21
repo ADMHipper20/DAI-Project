@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Polarization of Light",
+    "message_1": "A beam of unpolarized light with an intensity of 10 W/m² passes through a polarizing filter that allows only 50% of the light to pass through. What is the intensity of the resulting polarized light?",
+    "message_2": "When unpolarized light passes through a polarizing filter, the intensity of the resulting polarized light is reduced by a factor of the percentage of light allowed to pass through. In this case, the polarizing filter allows 50% of the light to pass through.\n\nTo find the intensity of the resulting polarized light, multiply the initial intensity by the percentage of light allowed to pass through:\n\nIntensity of polarized light = Initial intensity × Percentage of light allowed to pass through\n\nIntensity of polarized light = 10 W/m² × 0.50\n\nIntensity of polarized light = 5 W/m²\n\nSo, the intensity of the resulting polarized light is 5 W/m²."
+}

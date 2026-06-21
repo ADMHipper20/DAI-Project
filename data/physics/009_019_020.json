@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Young's Double Slit Experiment",
+    "message_1": "What will be the distance between the central bright fringe and the first-order bright fringe in a Young's double slit experiment, if the distance between the two slits is 0.5 mm and the wavelength of light used is 600 nm?",
+    "message_2": "To find the distance between the central bright fringe and the first-order bright fringe in a Young's double slit experiment, we can use the formula:\n\ny = (m * λ * L) / d\n\nwhere:\ny = distance between the central bright fringe and the first-order bright fringe\nm = order of the bright fringe (m = 1 for the first-order bright fringe)\nλ = wavelength of light (600 nm = 600 x 10^(-9) m)\nL = distance between the screen and the double slits (we need this value to solve the problem)\nd = distance between the two slits (0.5 mm = 0.5 x 10^(-3) m)\n\nWe are missing the value of L, the distance between the screen and the double slits. Please provide this value to solve the problem."
+}

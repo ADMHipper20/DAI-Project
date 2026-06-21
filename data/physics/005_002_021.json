@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Length contraction in a moving frame of reference",
+    "message_1": "Consider a rod at rest in the lab frame with a length of 20 meters. If this rod starts moving in the lab frame with a velocity of 0.8c, what will be the length of the rod as measured by an observer moving with the rod in the direction of motion?",
+    "message_2": "If the observer is moving with the rod, they are in the same frame of reference as the rod. In this case, the observer will measure the length of the rod to be the same as its proper length, which is 20 meters. The length contraction only occurs when the observer is in a different frame of reference (i.e., stationary in the lab frame)."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear energy production and efficiency",
+    "message_1": "What is the efficiency of a nuclear power plant if it produces 500 MW of electrical power and releases 700 MW of thermal energy?",
+    "message_2": "The efficiency of a power plant can be calculated using the following formula:\n\nEfficiency = (Useful output power) / (Total input power)\n\nIn this case, the useful output power is the electrical power produced, which is 500 MW, and the total input power is the sum of the electrical power and the thermal energy released, which is 500 MW + 700 MW = 1200 MW.\n\nEfficiency = (500 MW) / (1200 MW)\n\nEfficiency = 0.4167\n\nTo express the efficiency as a percentage, multiply by 100:\n\nEfficiency = 0.4167 * 100 = 41.67%\n\nThe efficiency of the nuclear power plant is 41.67%."
+}

@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Solid state physics",
+    "sub_topic": "Calculation of the thermal expansion coefficient of a crystal",
+    "message_1": "What is the change in the length of a crystal, which has a thermal expansion coefficient of 6.5 x 10^-6 K^-1 and an initial length of 10 cm, when it is subjected to a temperature increase of 50°C?",
+    "message_2": "To find the change in length of the crystal, we can use the formula for linear thermal expansion:\n\nΔL = α * L₀ * ΔT\n\nwhere ΔL is the change in length, α is the thermal expansion coefficient, L₀ is the initial length, and ΔT is the change in temperature.\n\nGiven values:\nα = 6.5 x 10^-6 K^-1\nL₀ = 10 cm\nΔT = 50°C\n\nNow, we can plug these values into the formula:\n\nΔL = (6.5 x 10^-6 K^-1) * (10 cm) * (50°C)\n\nΔL = (6.5 x 10^-6) * 10 * 50\n\nΔL = 3.25 x 10^-3 cm\n\nSo, the change in the length of the crystal is 3.25 x 10^-3 cm or 0.00325 cm."
+}

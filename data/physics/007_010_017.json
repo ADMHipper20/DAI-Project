@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear weapons and their effects",
+    "message_1": "How much energy is released during a nuclear explosion using a 10-kiloton atomic bomb if all of the energy is converted into thermal energy?",
+    "message_2": "A 10-kiloton atomic bomb has an energy equivalent to 10,000 tons of TNT. To convert this to joules, we can use the fact that 1 ton of TNT releases approximately 4.184 x 10^9 joules of energy. \n\nEnergy released = (10,000 tons of TNT) x (4.184 x 10^9 joules/ton of TNT)\n\nEnergy released = 4.184 x 10^13 joules\n\nSo, during a nuclear explosion using a 10-kiloton atomic bomb, 4.184 x 10^13 joules of energy is released as thermal energy."
+}

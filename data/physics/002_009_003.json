@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of latent heat of fusion of a substance",
+    "message_1": "What is the amount of energy required to freeze 20 grams of water into ice at its melting point assuming the latent heat of fusion of water to be 334 joules per gram?",
+    "message_2": "To calculate the amount of energy required to freeze 20 grams of water into ice at its melting point, we can use the formula:\n\nEnergy (Q) = mass (m) × latent heat of fusion (L)\n\nwhere:\nm = 20 grams (mass of water)\nL = 334 joules per gram (latent heat of fusion of water)\n\nNow, plug in the values:\n\nQ = 20 grams × 334 joules/gram\n\nQ = 6680 joules\n\nSo, the amount of energy required to freeze 20 grams of water into ice at its melting point is 6680 joules."
+}

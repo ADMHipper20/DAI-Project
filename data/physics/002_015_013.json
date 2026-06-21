@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of coefficient of performance of a heat pump",
+    "message_1": "Calculate the coefficient of performance (COP) of a heat pump that operates at a temperature difference of 20°C and has a heating capacity of 10 kW, when the electric power consumed by the heat pump is 2.5 kW.",
+    "message_2": "The coefficient of performance (COP) of a heat pump is the ratio of the heating capacity (Q) to the electric power consumed (W) by the heat pump. Mathematically, it can be represented as:\n\nCOP = Q / W\n\nGiven the heating capacity (Q) is 10 kW and the electric power consumed (W) is 2.5 kW, we can calculate the COP as follows:\n\nCOP = 10 kW / 2.5 kW\n\nCOP = 4\n\nTherefore, the coefficient of performance (COP) of the heat pump is 4."
+}

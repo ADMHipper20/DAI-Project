@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of vapor pressure of a substance",
+    "message_1": "What is the vapor pressure of ethanol at 25°C, given that its heat of vaporization is 38.6 kJ/mol and its normal boiling point is 78.37°C?",
+    "message_2": "To solve this problem, we can use the Clausius-Clapeyron equation, which relates the vapor pressure of a substance at different temperatures to its heat of vaporization. The equation is:\n\nln(P2/P1) = -ΔHvap/R * (1/T2 - 1/T1)\n\nwhere P1 and P2 are the vapor pressures at temperatures T1 and T2 (in Kelvin), ΔHvap is the heat of vaporization, and R is the ideal gas constant (8.314 J/mol·K).\n\nWe are given the normal boiling point of ethanol (78.37°C), which means the vapor pressure at this temperature is equal to 1 atm (101.3 kPa). We want to find the vapor pressure at 25°C.\n\nFirst, let's convert the temperatures to Kelvin:\nT1 = 78.37°C + 273.15 = 351.52 K\nT2 = 25°C + 273.15 = 298.15 K\n\nNow, we can plug the values into the Clausius-Clapeyron equation:\n\nln(P2/101.3) = -38.6 * 10^3 J/mol / 8.314 J/mol·K * (1/298.15 - 1/351.52)\n\nSolving for P2:\n\nln(P2/101.3) = -5.018\nP2/101.3 = e^(-5.018)\nP2 = 101.3 * e^(-5.018)\nP2 ≈ 6.77 kPa\n\nSo, the vapor pressure of ethanol at 25°C is approximately 6.77 kPa."
+}

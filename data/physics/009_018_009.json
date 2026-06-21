@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Optics",
+    "sub_topic": "Double Slit Interference",
+    "message_1": "A student sets up a double-slit experiment with a slit separation of 0.05 mm and light of wavelength 500 nm. The screen is placed 1 meter away from the slits. What is the distance between the central maximum and the closest maximum to the central maximum?",
+    "message_2": "To find the distance between the central maximum and the first maximum (closest maximum to the central maximum), we can use the formula for the double-slit interference pattern:\n\ny = (m * λ * L) / d\n\nwhere:\ny = distance between the central maximum and the m-th maximum\nm = order of the maximum (m = 1 for the first maximum)\nλ = wavelength of light (500 nm = 500 * 10^(-9) m)\nL = distance between the slits and the screen (1 m)\nd = slit separation (0.05 mm = 0.05 * 10^(-3) m)\n\nNow, we can plug in the values:\n\ny = (1 * 500 * 10^(-9) * 1) / (0.05 * 10^(-3))\ny = (500 * 10^(-9)) / (0.05 * 10^(-3))\ny = 0.01 m\n\nSo, the distance between the central maximum and the first maximum is 0.01 meters or 1 centimeter."
+}

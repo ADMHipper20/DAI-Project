@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic mass increase",
+    "message_1": "A spaceship travels at a speed of 0.9c relative to an observer on Earth. If the rest mass of the spaceship is 1,000 kg, what will be the relativistic mass of the spaceship according to the observer on Earth?",
+    "message_2": "To calculate the relativistic mass of the spaceship, we can use the formula:\n\nm_rel = m_rest / sqrt(1 - v^2/c^2)\n\nwhere m_rel is the relativistic mass, m_rest is the rest mass, v is the velocity of the spaceship relative to the observer, and c is the speed of light.\n\nGiven that the spaceship's rest mass (m_rest) is 1,000 kg and its speed (v) is 0.9c, we can plug these values into the formula:\n\nm_rel = 1,000 kg / sqrt(1 - (0.9c)^2/c^2)\n\nm_rel = 1,000 kg / sqrt(1 - 0.81)\n\nm_rel = 1,000 kg / sqrt(0.19)\n\nm_rel ≈ 1,000 kg / 0.43589\n\nm_rel ≈ 2,294 kg\n\nSo, the relativistic mass of the spaceship according to the observer on Earth is approximately 2,294 kg."
+}

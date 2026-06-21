@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Atomic physics",
+    "sub_topic": "Calculation of the ionization energy of atoms",
+    "message_1": "What is the ionization energy of a hydrogen atom in its ground state? (Given: ionization energy of hydrogen = 13.6 eV)",
+    "message_2": "The ionization energy of a hydrogen atom in its ground state is 13.6 eV. This is the energy required to remove an electron from the ground state (n=1) of a hydrogen atom to an infinitely separated state (n=∞)."
+}

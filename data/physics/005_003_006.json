@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Special relativity",
+    "sub_topic": "Relativistic velocity addition",
+    "message_1": "A spaceship traveling at a velocity of 0.6c relative to Earth fires a small probe in the forward direction with a velocity of 0.8c relative to the spaceship. What is the velocity of the probe relative to Earth? Use the relativistic velocity addition formula to solve the problem.",
+    "message_2": "The relativistic velocity addition formula is given by:\n\nv = (v1 + v2) / (1 + (v1 * v2) / c^2)\n\nwhere v is the combined velocity, v1 is the velocity of the spaceship relative to Earth, v2 is the velocity of the probe relative to the spaceship, and c is the speed of light.\n\nIn this problem, v1 = 0.6c and v2 = 0.8c. Plugging these values into the formula, we get:\n\nv = (0.6c + 0.8c) / (1 + (0.6c * 0.8c) / c^2)\n\nTo simplify the equation, we can divide both the numerator and the denominator by c:\n\nv/c = (0.6 + 0.8) / (1 + (0.6 * 0.8))\n\nNow, we can solve for v/c:\n\nv/c = (1.4) / (1 + 0.48)\nv/c = 1.4 / 1.48\n\nv/c ≈ 0.9459\n\nNow, to find the velocity of the probe relative to Earth, we multiply this value by the speed of light:\n\nv ≈ 0.9459c\n\nSo, the velocity of the probe relative to Earth is approximately 0.9459 times the speed of light."
+}

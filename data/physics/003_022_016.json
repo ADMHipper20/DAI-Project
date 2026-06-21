@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Electromagnetism",
+    "sub_topic": "Calculation of magnetic field due to a current-carrying motor",
+    "message_1": "A wire of length 2m carries a current of 5A. Determine the magnetic field at a point located 4cm away from the wire on its perpendicular bisector.",
+    "message_2": "To determine the magnetic field at a point located 4 cm away from the wire on its perpendicular bisector, we can use the formula for the magnetic field due to a straight current-carrying wire, which is given by Ampere's Law:\n\nB = (μ₀ * I) / (2 * π * r)\n\nwhere B is the magnetic field, μ₀ is the permeability of free space (4π × 10^(-7) Tm/A), I is the current in the wire, and r is the distance from the wire to the point where we want to find the magnetic field.\n\nIn this case, I = 5 A and r = 4 cm = 0.04 m. Plugging these values into the formula, we get:\n\nB = (4π × 10^(-7) Tm/A * 5 A) / (2 * π * 0.04 m)\n\nThe π in the numerator and denominator cancels out:\n\nB = (4 × 10^(-7) Tm * 5 A) / (2 * 0.04 m)\n\nNow, we can simplify the expression:\n\nB = (2 × 10^(-6) T * 5 A) / 0.04 m\n\nB = 10^(-5) T * 5 A / 0.04 m\n\nB = 5 × 10^(-5) T / 0.04 m\n\nB ≈ 1.25 × 10^(-3) T\n\nSo, the magnetic field at a point located 4 cm away from the wire on its perpendicular bisector is approximately 1.25 × 10^(-3) Tesla."
+}

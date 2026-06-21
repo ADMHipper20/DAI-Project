@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Nuclear physics",
+    "sub_topic": "Nuclear fission and fusion reactions",
+    "message_1": "What is the minimum mass of uranium-235 required to undergo a sustained nuclear chain reaction in a typical nuclear power plant based on nuclear fission?",
+    "message_2": "The minimum mass of uranium-235 required to undergo a sustained nuclear chain reaction is called the critical mass. The critical mass depends on several factors, including the shape, density, and purity of the uranium-235, as well as the presence of any neutron reflectors or moderators.\n\nFor a typical nuclear power plant, the critical mass of uranium-235 is usually around 15 kg (33 lbs) when surrounded by a neutron reflector, such as water or graphite. However, this value can vary depending on the specific design of the reactor and the enrichment of the uranium fuel.\n\nIt's important to note that nuclear power plants typically use fuel with a much higher mass of uranium-235 than the critical mass to ensure a stable and long-lasting chain reaction. The fuel is usually in the form of uranium dioxide (UO2) pellets, which are then arranged into fuel rods and assemblies. The enrichment of uranium-235 in these fuel rods is typically between 3% and 5% for commercial power reactors."
+}

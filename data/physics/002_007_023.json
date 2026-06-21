@@ -1,0 +1,7 @@
+{
+    "role_1": "Physicist_RoleType.ASSISTANT",
+    "topic;": "Thermodynamics",
+    "sub_topic": "Calculation of heat capacity of a substance",
+    "message_1": "What is the heat capacity of a 200 g aluminum block that is heated from 20°C to 100°C, given that the specific heat capacity of aluminum is 0.9 J/g°C?",
+    "message_2": "To find the heat capacity of the aluminum block, we can use the formula:\n\nQ = mcΔT\n\nwhere Q is the heat capacity, m is the mass of the aluminum block, c is the specific heat capacity of aluminum, and ΔT is the change in temperature.\n\nGiven:\nm = 200 g\nc = 0.9 J/g°C\nInitial temperature (T1) = 20°C\nFinal temperature (T2) = 100°C\n\nFirst, let's find the change in temperature (ΔT):\nΔT = T2 - T1 = 100°C - 20°C = 80°C\n\nNow, we can plug the values into the formula:\n\nQ = (200 g) × (0.9 J/g°C) × (80°C)\n\nQ = 180 J/°C × 80°C\n\nQ = 14400 J\n\nSo, the heat capacity of the 200 g aluminum block is 14,400 Joules."
+}
